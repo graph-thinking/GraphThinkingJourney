@@ -1,4 +1,4 @@
-# Graph Theory
+# Graph Theory - Discrete Mathematics
 
 * https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf
 
