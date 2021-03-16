@@ -1,5 +1,9 @@
 # Graph Data Modelling 
 
+If you don't know how to model, model it as a graph.
+* http://graphdatamodeling.com/ (wth knowledge test)
+
+
 * Tools - PlantUML ... kroki.io
 * http://www.apcjones.com/arrows/
 
@@ -12,4 +16,3 @@
 * https://www.dataversity.net/property-graphs-swiss-army-knife-data-modeling/
 * https://cambridge-intelligence.com/graph-data-modeling-101/
 
-* http://graphdatamodeling.com/ (wth knowledge test)

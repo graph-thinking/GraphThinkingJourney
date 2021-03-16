@@ -1,6 +1,9 @@
 # Initiation Graph Thinking
 
 
+These course is as initiation to graph thinking. It doesn't require programming skills. 
+
+
 * https://www.freecodecamp.org/news/i-dont-understand-graph-theory-1c96572a1401/
 
 * https://medium.com/tebs-lab/graph-theory-table-of-contents-97ccc62b09a6
