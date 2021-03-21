@@ -1,7 +1,7 @@
 # Initiation Graph Thinking
 
-
 These course is as initiation to graph thinking. It doesn't require programming skills. 
+It's intented for an audience which is data-related but doesn't necessary have programming skills.
 
 
 * https://www.freecodecamp.org/news/i-dont-understand-graph-theory-1c96572a1401/
