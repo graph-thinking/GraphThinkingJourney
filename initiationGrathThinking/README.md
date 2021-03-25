@@ -9,6 +9,6 @@ These course is as introduction to graph thinking.
 
 * [tutorial for absolute unbelievable dummies - short](https://www.freecodecamp.org/news/i-dont-understand-graph-theory-1c96572a1401/)
 
-* [tutorial for absolute unbelievable dummies - short](https://medium.com/tebs-lab/graph-theory-table-of-contents-97ccc62b09a6)
+* [tutorial for absolute unbelievable dummies](https://medium.com/tebs-lab/graph-theory-table-of-contents-97ccc62b09a6)
 
 
