@@ -17,6 +17,6 @@ Program:
 
 * [Graph Visualization](./graphVisualization.md)
 
-* [Graph Data Structure](./graphDataStructure.md)
+* [Graph Data Structure and Algorithm](./graphDataStructure.md)
 
 * [Graph Data Modelling](./graphDataModelling.md)
