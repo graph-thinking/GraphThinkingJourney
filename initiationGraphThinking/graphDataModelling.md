@@ -15,5 +15,7 @@ If you don't know how to model, model it as a graph.
 
 
 
-## Tools - PlantUML ... kroki.io
+## Tools
 * http://www.apcjones.com/arrows/
+* https://kroki.io/
+* https://plantuml.com/
