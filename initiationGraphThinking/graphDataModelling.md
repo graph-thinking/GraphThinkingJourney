@@ -4,9 +4,6 @@ If you don't know how to model, model it as a graph.
 * http://graphdatamodeling.com/ (wth knowledge test)
 
 
-* Tools - PlantUML ... kroki.io
-* http://www.apcjones.com/arrows/
-
 * https://neo4j.com/developer/guide-data-modeling/
 * https://neo4j.com/blog/visual-cypher-presenting-tools-create-visualize-parse-cypher/
 * https://medium.com/neo4j/neo4j-data-modelling-2982bd90aa0c
@@ -16,3 +13,7 @@ If you don't know how to model, model it as a graph.
 * https://www.dataversity.net/property-graphs-swiss-army-knife-data-modeling/
 * https://cambridge-intelligence.com/graph-data-modeling-101/
 
+
+
+## Tools - PlantUML ... kroki.io
+* http://www.apcjones.com/arrows/
