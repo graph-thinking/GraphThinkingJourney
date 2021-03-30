@@ -11,14 +11,16 @@ Audience : people whose job is data-related but doesn't necessary have programmi
 
 Program: 
 
-* [Graph Theory](./graphTheory.md)
-
-* [Graph Terminology](./graphTerminology.md)
-
-* [Graph Visualization](./graphVisualization.md)
-
-* [Graph Data Structure and Algorithm](./graphDataStructure.md)
+* [Graph Theory and Graph Terminology](./graphTheory.md)
 
 * [Graph Data Modelling](./graphDataModelling.md)
 
+* [Graph Data Structure and Algorithm](./graphDataStructure.md)
+
 * [Graph Data Storage](./graphDataStorage.md)
+
+* [Graph Visualization](./graphVisualization.md)
+
+
+
+
