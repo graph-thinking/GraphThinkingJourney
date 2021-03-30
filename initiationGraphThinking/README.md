@@ -21,4 +21,4 @@ Program:
 
 * [Graph Data Modelling](./graphDataModelling.md)
 
-* Graph Storage GQL - Also Json - Tree...
+* [Graph Data Storage](./graphDataStorage.md)
