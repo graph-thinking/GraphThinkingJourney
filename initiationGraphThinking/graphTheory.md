@@ -1,5 +1,7 @@
 # Graph Theory - Discrete Mathematics
 
+we refer to the glossary ...
+
 * https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf
 
 * https://www.tutorialspoint.com/graph_theory/

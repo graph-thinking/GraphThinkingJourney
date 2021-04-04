@@ -9,6 +9,8 @@ Audience : people whose job is data-related but doesn't necessary have programmi
 * [short tutorial](https://www.freecodecamp.org/news/i-dont-understand-graph-theory-1c96572a1401/) for absolute unbelievable dummies and [not so short tutorial](https://medium.com/tebs-lab/graph-theory-table-of-contents-97ccc62b09a6)
 
 
+* tool very powerfull - https://visualgo.net/en
+
 Program: 
 
 * [Graph Theory](./graphTheory.md)
@@ -20,6 +22,14 @@ Program:
 * [Graph Data Storage](./graphDataStorage.md)
 
 * [Graph Data Visualization](./graphVisualization.md)
+
+* From A till Z - Problem solved by simple query - Working at most with not linear DSA
+
+* From A till Z - Problem solved by simple algorithm - Working at most with not linear DSA
+
+* From A till Z - Problem solved by query + algo - Working at most with not linear DSA
+
+* From A till Z - Problem solved by algo + query - Working at most with not linear DSA
 
 
 
