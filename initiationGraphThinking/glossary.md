@@ -8,6 +8,7 @@
 *  A Graph is said to be Empty if it has no edges. Meaning E is empty
 *  A Graph is a Null Graph if it has no vertices. Meaning V and E is empty
 *  A Graph with only 1 Vertex is a Trivial graph
+*  Directive - undirective - digraph
 *  Edges are Adjacent if they have a common vertex. Vertices are Adjacent if they have a common edge
 *  The degree of the vertex v, written as d(v), is the number of edges with v as an end vertex. 
 *  By convention, we count a loop twice and parallel edges contribute separately
@@ -20,3 +21,7 @@
 *  A Closed Path is a Circuit – Analogous to electrical circuits''
 
 * [Glossary on Graph Theory](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms)
+
+# Graph Properties 
+
+* A graph with odd vertex ... cannot be eulerian ...

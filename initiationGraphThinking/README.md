@@ -1,6 +1,6 @@
 # Initiation Graph Thinking
 
-These course is as introduction to graph thinking. 
+This course is as introduction to graph thinking. 
 
 Audience : people whose job is data-related but doesn't necessary have programming skills.
 
@@ -15,7 +15,7 @@ Program:
 
 * [Graph Data Modelling](./graphDataModelling.md)
 
-* [Graph Data Structure and Algorithm](./graphDataStructure.md)
+* [Graph Data Structure and Algorithm](./graphDataStructureAlgorithm.md)
 
 * [Graph Data Storage](./graphDataStorage.md)
 

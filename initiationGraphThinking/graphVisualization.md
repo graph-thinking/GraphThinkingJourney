@@ -5,6 +5,9 @@
 * https://www.youtube.com/watch?v=qJTp8AUpdFE
 
 
+* http://demo.staple-api.org/
+
+
 
 
 * https://github.com/cytoscape/py2cytoscape/blob/develop/examples/Untitled.ipynb

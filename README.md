@@ -4,7 +4,7 @@ There are no isolated pieces of information in this connected world, but rich an
 
 Understanding the connections between data, and deriving meaning from these links, doesn’t necessarily mean gathering new data. Significant insightscan be drawn from one’s existing data, simply by reframing the problem and looking at it in a new way: as a Graph.
 
-At the end we all belongs to an [Universal Graph](https://en.wikipedia.org/wiki/Universal_graph).
+From a metaphysic perspective we all belongs to an [Universal Graph](https://en.wikipedia.org/wiki/Universal_graph).
 
 This course is intended to be a base for a graph thinking journey. 
 It covers an [introduction](./initiationGraphThinking/README.md) to learn to solve problems with graphs (shortest path not persistent and persistent), followed by a classification of all [graph algorithms](./graphAlgorithms/README.md) and a [solution production ready one (shortest path)](./graphProductionReady/README.md).
