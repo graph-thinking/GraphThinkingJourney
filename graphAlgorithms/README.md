@@ -1,6 +1,6 @@
-# Graph Analytics 
+# Graph Algorithms
 
-An introduction to graph analytics. We try to be domain agnostic but not problem agnostic and also to be updated with recents graph theory discovery and graph technologies.
+We try to be domain agnostic but not problem agnostic and also to be updated with recents graph theory discovery and graph technologies.
 
 Here an commercial report of why Graph Analytics - links of Fabio and commercial analytics report
 
@@ -10,7 +10,7 @@ Collaborative and Investigation Open [Platform](./platform.md) and Tools and ope
 Lessons from algorithmes des graph Patrick's book
 
 
-1.	[Introduction](./introduction.md) - Graph Analytics Matrix – Different algos types on different domains (no persistent)
+1.	[Introduction](./introduction.md) - Graph Analytics Matrix – Different algos types on different domains
 2.	[Path analysis](.path_finding/pathFinding.md) - present graph
 3.	[Connectivity analysis](./connectivityAnalysis.md) - present graph
 4.	[Centrality analysis](centralityAnalysis.md)  - present graph
@@ -18,3 +18,8 @@ Lessons from algorithmes des graph Patrick's book
 6.	[Link Prediction](./linkPrediction.md) – Graph ML - Algos for future graph – 
 7.	Project 1/2 - Social Network Analysis (SNA) 
 8.	Project 2/2 - Social Network Analysis (SNA)  
+
+
+
+
+[![Graph Algorithms, by Mark Needham](http://akamaicovers.oreilly.com/images/9781492047612/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781492047674//)

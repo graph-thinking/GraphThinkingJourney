@@ -11,7 +11,7 @@ Audience : people whose job is data-related but doesn't necessary have programmi
 
 Program: 
 
-* [Graph Theory and Terminology](./graphTheory.md)
+* [Graph Theory](./graphTheory.md)
 
 * [Graph Data Modelling](./graphDataModelling.md)
 

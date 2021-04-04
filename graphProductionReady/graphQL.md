@@ -1,5 +1,12 @@
 # Graph QL
 
+*  Also Json - Tree -
+** https://netflix.github.io/falcor/documentation/jsongraph.html#the-abstract-json-graph-operations
+** https://netflix.github.io/falcor/starter/what-is-falcor.html
+
+
+* linked Data - json-ld 
+
 https://graphql.org/learn/thinking-in-graphs/
 
 https://graphqlme.com/2017/11/11/build-better-graphql-apis-thinking-in-graphs/

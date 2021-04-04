@@ -6,3 +6,8 @@
 * https://www.tutorialspoint.com/data_structures_algorithms/index.htm
 
 * A good book to learn [graphs DSA](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
+
+
+* the best library to start with is NetworkX ---
+
+* we will cover only shortest path --- from a till z ...
