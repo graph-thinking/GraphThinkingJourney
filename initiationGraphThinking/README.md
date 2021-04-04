@@ -23,6 +23,8 @@ Program:
 
 * [Graph Data Visualization](./graphVisualization.md)
 
+* Hello World of Graph Thinking : Shortest Path ...
+
 * From A till Z - Problem solved by simple query - Working at most with not linear DSA
 
 * From A till Z - Problem solved by simple algorithm - Working at most with not linear DSA

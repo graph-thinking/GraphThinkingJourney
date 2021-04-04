@@ -13,7 +13,7 @@ https://www.nature.com/articles/srep38209
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UHnmPu8Zevg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+*** good project EU - https://cordis.europa.eu/project/id/810115/its
 
 * https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2 
 * https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/
