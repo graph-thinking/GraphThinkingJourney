@@ -6,6 +6,8 @@ Understanding the connections between data, and deriving meaning from these link
 
 From a metaphysic perspective we all belongs to an [Universal Graph](https://en.wikipedia.org/wiki/Universal_graph).
 
+We are inspired by such community - https://www.graphfoundation.org/ - https://www.meetup.com/graphql-berlin/ and standard organization - http://ldbcouncil.org/
+
 This course is intended to be a base for a graph thinking journey. 
 It covers an [introduction](./initiationGraphThinking/README.md) to learn to solve problems with graphs (shortest path not persistent and persistent), followed by a classification of all [graph algorithms](./graphAlgorithms/README.md) and a [solution production ready one (shortest path)](./graphProductionReady/README.md).
 
