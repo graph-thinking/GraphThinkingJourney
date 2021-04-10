@@ -4,7 +4,7 @@ We try to be domain agnostic but not problem agnostic and also to be updated wit
 
 The first part is on optimization - network optimization - graph optimization that belong to Operational Research. 
 
-This is a big picture of what is [Operational Research](https://towardsdatascience.com/the-big-picture-of-operations-research-8652d5153aad)
+This is a big picture of what is [Operational Research](https://towardsdatascience.com/the-big-picture-of-operations-research-8652d5153aad). These are some [exercises](https://www.lix.polytechnique.fr/~liberti/teaching/dix/inf572-10/exercises-nosol.pdf)
 
 
 Here an commercial report of why Graph Analytics - links of Fabio and commercial analytics report
