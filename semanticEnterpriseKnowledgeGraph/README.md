@@ -1,4 +1,8 @@
-# Enterprise Knowledge Graph (EKG)
+# Enterprise Knowledge Graph (EKG) 
+
+We are inspired by such [foundation](https://www.ekgf.org/)
+
+We perform an audit on connectedness and semantic maturity following such [guidelines](https://wixlabs-pdf-dev.appspot.com/assets/pdfjs/web/viewer.html?file=%2Fpdfproxy%3Finstan[…]com%2Fugd%2Fffbc4e_cbc43fe8aa7f47cd8e7f262480200208.pdf)
 
 
 https://staple-api.org/
