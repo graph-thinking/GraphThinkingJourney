@@ -1,4 +1,4 @@
-# Retail Graph Functional Analysis
+# Financial Knowledge Graph Functional Analysis
 
 Good video on KG in finance - https://www.youtube.com/watch?v=25UIgiiYqsE
 
