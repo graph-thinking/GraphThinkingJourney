@@ -3,6 +3,15 @@
 In many cases it is useful to represent such a system as a network where the nodes represent the components and the links their interactions.
 Department of network and datascience ........
 
+https://www.complexity-explorables.org/
+
+https://www.complexityexplorer.org/
+
+https://glocomnet.com/library/complexity-lab
+
+https://www.systemsinnovation.io/course
+
+
 https://en.wikipedia.org/wiki/Complex_system
 
 https://www.nature.com/articles/srep38209
