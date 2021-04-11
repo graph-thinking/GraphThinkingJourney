@@ -34,13 +34,13 @@ La migration est transparente, sans impact, et évolue en même temps que le sys
 
 Approach (why, how what):
 
-Step 1 : Modélisation des compétences de chaque profil au moyen d’un diagramme (parsing du CV ou confrontation aux valeurs fournies par le client) 
+Step 1 : Competence model and acquisition of each collaborator (CV parsing or other sources) 
 
-Step 2 : Mesure de la distance entre chaque compétences clés et calcul du temps de montée en compétences
+Step 2 : Distance between each key competence (indirect competence - competence clusters) and learning path computation
 
-Step 3 : Comparaison des diagrammes « Skills collaborateurs/Skills désirées » (« learning path »)
+Step 3 : Competence comparison - visual and quantitatively « Skills collaborateurs/Skills désirées » (« learning path »)
 
-Step 4: Proposition d’un programme de formation sur-mesure, détaillé dans le temps, selon les compétences du collaborateur, du poste occupée et des projets portés par la société (« graphe de dépendances »)
+Step 4: Learning Path Proposal, détaillé dans le temps, selon les compétences du collaborateur, du poste occupée et des projets portés par la société (« graphe de dépendances »)
 
 Main features:
 
@@ -51,10 +51,9 @@ Synthèse des compétences les plus recherchées aujourd’hui et prédiction de
 Réalisation d’un programme de formation/montée en compétences (« learning path ») en fonction des tendances ou des projets en perspectives de l’entreprise
 Evaluation des compétences moyenne de la société par rapport à la compétence moyenne désiré à l’avenir: design de la courbe d’apprentissage de chaque profil de la société et prédiction des besoins en ressources supplémentaires.
 
-Inference Engine - Développement d’un moteur d’inférence (Inference graph) pour une projection plus globale de vos projets :
+Inference Engine - a global vision of all the training enterprise project :
 
-De manière générale: le moteur d’inférence permet de définir des règles et de déduire certains faits ou conclusion
-Ainsi, cette extension vous permet de :
+The engine allows to define rules and to arrive to conclusion in order to 
 
 gérer simultanément l’ensemble des projets de l’entreprise, en incluant tous les départements 
 manager et optimiser l’intégralité des ressources dans le temps, 
