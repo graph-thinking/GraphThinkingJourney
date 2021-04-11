@@ -3,46 +3,46 @@
 Good video on KG in recruitment - https://www.youtube.com/watch?v=NFQycDIDocg
 
 
-Context - Enjeux du recrutement et de la formation en entreprise
+Context - Recruitment challenge and trainings in entreprise
 
-* Identifier les bonnes ressources
+* Identify good resources
 
-* Identifier les potentiels de chaque collaborateur 
+* Identify potentials of each collaborator 
 
-* Construire un objectif commun 
+* Build a common target 
 
-* Accompagner le collaborateur vers une expertise
+* Lead the collaborator towards an achieved competence
 
-* Fidéliser le collaborateur
+* Fidéliser the collaborator
 
-* Valoriser le collaborateur
+* Valorise the collaborator
 
 Client's problem definition 
 
-Objectif 1: Faire monter en compétence le groupe, dirigé vers un objectif commun, en tenant comptant du savoir et des connaissances techniques et fonctionnelles de la somme des individualités (relier les skills à l’offre e-learning)
+Target 1: Faire monter en compétence le groupe, dirigé vers un objectif commun, en tenant comptant du savoir et des connaissances techniques et fonctionnelles de la somme des individualités (relier les skills à l’offre e-learning)
 
-Objectif 2: Proposer un parcours de formation personnalisé pour chaque collaborateur en adéquation avec la trajectoire définie par l’entreprise
+Target 2: Proposer un parcours de formation personnalisé pour chaque collaborateur en adéquation avec la trajectoire définie par l’entreprise
 
-Objectif 3: Permettre à l’entreprise de connaitre l’ensemble des compétences maitrisées dans l’entreprise à une date donnée et être en mesure de définir les objectifs futurs ainsi que les jalons associés
+Target 3: Permettre à l’entreprise de connaitre l’ensemble des compétences maitrisées dans l’entreprise à une date donnée et être en mesure de définir les objectifs futurs ainsi que les jalons associés
 
-Pourquoi la méthodologie Graph ?
+Why graph thinking ?
 
-Nous développons un outil à partir de la technologie Graph (with standard technologies) fondé sur un nouveau paradigme: La connectivité des données.
+The tool based on graphs (with standard technologies) open to a new paradigme: data connections.
 L’ensemble des données relatives aux Skills, secteurs et domaines d’applications, process de formation et projets généraux de l’entreprise, sont reliées entre elles et modéliser sous forme de Graphes. 
   un middleware, pouvant se « greffer » à tout type d’environnement et Base de données: Microsoft, Oracle, SAP, Postgre… et exposé via GraphQL API, ou si necessaire via RESTful API (mais potentiel plus limité)
 La migration est transparente, sans impact, et évolue en même temps que le système du client
 
 Approach (why, how what):
 
-Étape 1 : Modélisation des compétences de chaque profil au moyen d’un diagramme (parsing du CV ou confrontation aux valeurs fournies par le client) 
+Step 1 : Modélisation des compétences de chaque profil au moyen d’un diagramme (parsing du CV ou confrontation aux valeurs fournies par le client) 
 
-Étape 2 : Mesure de la distance entre chaque compétences clés et calcul du temps de montée en compétences
+Step 2 : Mesure de la distance entre chaque compétences clés et calcul du temps de montée en compétences
 
-Étape 3 : Comparaison des diagrammes « Skills collaborateurs/Skills désirées » (« learning path »)
+Step 3 : Comparaison des diagrammes « Skills collaborateurs/Skills désirées » (« learning path »)
 
-Étape 4: Proposition d’un programme de formation sur-mesure, détaillé dans le temps, selon les compétences du collaborateur, du poste occupée et des projets portés par la société (« graphe de dépendances »)
+Step 4: Proposition d’un programme de formation sur-mesure, détaillé dans le temps, selon les compétences du collaborateur, du poste occupée et des projets portés par la société (« graphe de dépendances »)
 
-Principales caractéristiques:
+Main features:
 
 Standardise l’ensemble de la connaissance
 Matching CV avec le poste ouvert ou compétences désirés
