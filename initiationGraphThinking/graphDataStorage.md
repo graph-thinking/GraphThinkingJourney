@@ -2,6 +2,8 @@
 
 The common way to store graph is called Property Graph.
 
+Popularity of graph db - https://db-engines.com/en/ranking_categories
+
 * In the datastorage with schema they have standardized the SQL and now the [GQL](https://www.gqlstandards.org/) - [ISO STANDARD](https://gql.today/)
 
 ** There are implementations of the main db SQL
