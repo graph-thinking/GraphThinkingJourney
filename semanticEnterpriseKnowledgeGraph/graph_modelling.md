@@ -8,6 +8,7 @@ We try to model all the knowledge around a domain with the maximum degree of gra
 In natural language processing, open information extraction is the task of generating a structured, machine-readable representation of the information in text, usually in the form of triples or n-ary propositions (Source: Wikipedia).
 
 Triple extraction may be manual or automatic
+* https://towardsdatascience.com/language-models-are-open-knowledge-graphs-but-are-hard-to-mine-13e128f3d64d
 The automatic may be with pretrained model example openIE 
 * https://stanfordnlp.github.io/CoreNLP/openie.html
 * https://nlp.stanford.edu/software/openie.html
@@ -26,6 +27,8 @@ The automatic may be with pretrained model example openIE
 Graph Sage - Node Embedding - http://snap.stanford.edu/graphsage/
 
 * https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef
+* https://paperswithcode.com/task/graph-embedding
+* https://www.earthdoc.org/content/papers/10.3997/2214-4609.202032092
 
 To train a model with openKE -- 
 * https://www.aclweb.org/anthology/D18-2024/
