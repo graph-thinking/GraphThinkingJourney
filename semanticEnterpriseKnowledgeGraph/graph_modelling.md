@@ -13,6 +13,15 @@ The automatic may be with pretrained model example openIE
 * https://nlp.stanford.edu/software/openie.html
 * https://github.com/philipperemy/stanford-openie-python
 
+* https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9571/9523/
+* https://pykeen.readthedocs.io/en/stable/
+* https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3
+* https://arxiv.org/pdf/1801.08641.pdf
+* https://github.com/thunlp/OpenKE
+
+* https://analyticsindiamag.com/ernie-gets-what-bert-doesnt-making-ai-smarter-with-knowledge-graphs/
+* https://medium.com/algoanalytics/entity-typing-and-relation-classification-for-knowledge-graph-building-using-ernie-efbf5aeacedb
+* http://lzy.thunlp.org/publications/acl2019_ernie.pdf
 
 Graph Sage - Node Embedding - http://snap.stanford.edu/graphsage/
 
