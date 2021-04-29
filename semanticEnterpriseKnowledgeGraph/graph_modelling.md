@@ -25,6 +25,8 @@ The automatic may be with pretrained model example openIE
 
 Graph Sage - Node Embedding - http://snap.stanford.edu/graphsage/
 
+* https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef
+
 To train a model with openKE -- 
 * https://www.aclweb.org/anthology/D18-2024/
 * https://github.com/thunlp/OpenKE
