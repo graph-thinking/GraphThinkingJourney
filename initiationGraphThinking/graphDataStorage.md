@@ -1,4 +1,4 @@
-# Graph Data Storage
+# Graph Data Storage - SQL - NoSQL - GraphQL & GraphQL Federated
 
 The common way to store graph is called Property Graph.
 
