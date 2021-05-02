@@ -5,7 +5,7 @@
 * https://www.youtube.com/watch?v=qJTp8AUpdFE
 
 
-* http://demo.staple-api.org/
+* http://demo.staple-api.org/ - visual interaction - graph 
 
 
 
