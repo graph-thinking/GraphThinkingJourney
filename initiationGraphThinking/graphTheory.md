@@ -35,8 +35,6 @@ Sarada Herke - https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgC
 * https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg
 * https://www.coursera.org/learn/graphs
 
-* [[Long readings |https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf]]
-
 
 
 
