@@ -42,8 +42,6 @@ Sarada Herke - https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgC
 
 * https://medium.com/tebs-lab/introduction-to-graph-theory-956929dcda50
 
-* https://cs.bme.hu/fcs/graphtheory.pdf
-
 
 * http://mathworld.wolfram.com/topics/GraphTheory.html
 
