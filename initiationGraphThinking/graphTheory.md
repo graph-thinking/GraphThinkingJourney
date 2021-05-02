@@ -1,7 +1,15 @@
-# Graph Theory - Discrete Mathematics
+# Graph Theory - Discrete Mathematics (Industry domain unrelated)
+
+[Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
 
 [Interactive - tutorial](https://visualgo.net/en)
+
+[Interactiver = tutorial 2](https://d3gt.com/)
+
+Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
+
+https://erkal.github.io/kite/
 
 
 we refer to the glossary ...
