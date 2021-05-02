@@ -15,11 +15,11 @@ Program:
 
 * [(Interactive) Graph Theory - Graphs in theory](./graphTheory.md) - 2+2 Hours module
 
-* [Graphs in practice](./graphPractice.md)
+* [Graphs in practice](./graphPractice.md) - 2 + 2 + 2 Hours module 
 
-* [Graph Data Modelling](./graphDataModelling.md)
+* Graph Tools - [Graph Data Modelling](./graphDataModelling.md) 2 Hours
 
-* [Graph Data Structure and Algorithm](./graphDataStructureAlgorithm.md)
+* [Graph Data Structure and Algorithm - Graph Processing](./graphDataStructureAlgorithm.md) 2 Hours
 
 * [Graph Data Storage](./graphDataStorage.md)
 
