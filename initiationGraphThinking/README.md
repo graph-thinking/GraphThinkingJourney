@@ -11,7 +11,7 @@ Audience : people whose job is data-related but doesn't necessary have programmi
 
 Program: 
 
-* [(Interactive) Graph Theory - Graphs in theory](./graphTheory.md)
+* [(Interactive) Graph Theory - Graphs in theory](./graphTheory.md) - 2+2 Hours module
 
 * [Graphs in practice](./graphPractice.md)
 
