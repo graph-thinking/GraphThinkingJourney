@@ -25,7 +25,7 @@ Program:
 
 * [Graph Data Visualization](./graphVisualization.md) - 2 Hours module
 
-* Hello World of Graph Thinking : Shortest Path ...
+* Hello World of Graph Thinking : Shortest Path ... - Problem Life Cycle --- from real problem to jupyter to production ready - 2 + 2 H module
 
 * From A till Z - Problem solved by simple query - Working at most with not linear DSA
 
