@@ -23,7 +23,7 @@ Program:
 
 * [Graph Data Storage](./graphDataStorage.md)
 
-* [Graph Data Visualization](./graphVisualization.md)
+* [Graph Data Visualization](./graphVisualization.md) - 2 Hours module
 
 * Hello World of Graph Thinking : Shortest Path ...
 
