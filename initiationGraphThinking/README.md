@@ -17,7 +17,7 @@ Program:
 
 * [Graphs in practice](./graphPractice.md) - 2 + 2 + 2 Hours module 
 
-* Graph Tools - [Graph Data Modelling](./graphDataModelling.md) 2 Hours
+* Graph in Tools - [Graph Data Modelling](./graphDataModelling.md) 2 Hours
 
 * [Graph Data Structure and Algorithm - Graph Processing](./graphDataStructureAlgorithm.md) 2 Hours
 
