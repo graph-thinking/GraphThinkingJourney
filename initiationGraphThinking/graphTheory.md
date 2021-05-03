@@ -5,7 +5,9 @@
 
 [Interactive - tutorial](https://visualgo.net/en)
 
-[Interactiver = tutorial 2](https://d3gt.com/)
+[Interactive - tutorial 2](https://d3gt.com/)
+
+[Interactive - tutorial 3](https://graphonline.ru/en/)
 
 Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
 
