@@ -1,6 +1,6 @@
 # Graph Theory - Discrete Mathematics (Industry domain unrelated)
 
-[Videos = Graph Theory](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg)
+[Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg)
 
 [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
