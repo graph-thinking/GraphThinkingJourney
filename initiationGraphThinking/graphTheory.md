@@ -1,5 +1,11 @@
 # Graph Theory - Discrete Mathematics (Industry domain unrelated)
 
+------------------------------------------------------------------------------
+Graph Theory ---- White Belt -> Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
+---------------------------------------------------------------------------
+
+Support: 
+
 [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 
 [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg)
@@ -8,12 +14,9 @@
 
 [Interactive - tutorial](https://visualgo.net/en)
 
-------------------------------------------------------------------------------
-White Belt -> Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
-
----------------------------------------------------------------------------
 
 
+----- other sources ...
 
 [Interactive - tutorial 2](https://d3gt.com/)
 
