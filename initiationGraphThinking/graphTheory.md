@@ -1,13 +1,15 @@
 # Graph Theory - Discrete Mathematics (Industry domain unrelated)
 
+[Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
+
 [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg)
 
 [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
-Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
-
 [Interactive - tutorial](https://visualgo.net/en)
 
+------------------------------------------------------------------------------
+White Belt -> Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
 
 ---------------------------------------------------------------------------
 
@@ -21,8 +23,6 @@ https://erkal.github.io/kite/
 
 
 we refer to the glossary ...
-
-* https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf
 
 * https://www.tutorialspoint.com/graph_theory/
 
