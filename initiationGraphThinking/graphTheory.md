@@ -1,15 +1,22 @@
 # Graph Theory - Discrete Mathematics (Industry domain unrelated)
 
+[Videos = Graph Theory](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg)
+
 [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
+Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
 
 [Interactive - tutorial](https://visualgo.net/en)
+
+
+
+
+
+
 
 [Interactive - tutorial 2](https://d3gt.com/)
 
 [Interactive - tutorial 3](https://graphonline.ru/en/)
-
-Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
 
 https://erkal.github.io/kite/
 
@@ -28,7 +35,6 @@ we refer to the glossary ...
 * https://www.coursera.org/learn/graphs
 
 
-* videos very good - https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg
 
 * others video - https://www.youtube.com/playlist?list=PLeIMaH7i8JDiRA4fK9QmjvDSZKBJDyxpc
 
