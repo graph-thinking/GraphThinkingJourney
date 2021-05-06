@@ -1,10 +1,8 @@
 # Graph Theory - Discrete Mathematics (Industry domain unrelated)
 
 ------------------------------------------------------------------------------
-Graph Theory ---- White Belt -> Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
+White Belt -> Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
 ---------------------------------------------------------------------------
-
-Support: 
 
 [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 
