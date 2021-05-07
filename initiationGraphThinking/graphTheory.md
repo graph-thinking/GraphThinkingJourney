@@ -45,7 +45,8 @@ White Belt - Theory about graphs
 | u and v in a digraph are strongly connected | |
 | tree | | 
 | forest | |
-| eccentricity | ε(u) = max<sub>v∈V</sub>d(u,v) | 
+| eccentricity | ε(u) = max<sub>v∈V</sub> d(u,v) | 
+|  radius | rad(G) = min<sub>u∈V</sub> ε(u) |
 | leaf l of a tree T |  d(l) = 1 |
 
 ## White Belt Algorithms and Notation
