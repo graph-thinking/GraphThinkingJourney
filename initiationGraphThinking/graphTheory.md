@@ -23,6 +23,7 @@ White Belt - Theory about graphs
 | Edge k | e<sub>k</sub> = (v<sub>j</sub>,v<sub>i</sub>) |
 | Ajacency Matrix | |
 | Ajacency List | |
+| A graph G′ = (V′,E′) is a subgraph of a graph G = (V,E) | |
 | Simple Graph| |
 | Degree of a vertex v | d(v) |
 | Isolated vertex v | d(v) = 0 |
@@ -49,6 +50,7 @@ White Belt - Theory about graphs
 | diameter | diam(G) = max<sub>u∈V</sub> ε(u) | 
 | center of a graph G | the set of nodes in V of minimal eccentricity |
 | leaf l of a tree T |  d(l) = 1 |
+| Graph is planar | |
 
 ## White Belt Algorithms and Notation
 
