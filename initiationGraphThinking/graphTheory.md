@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------
 White Belt - Theory about graphs
 ---------------------------------------------------------------------------
-
+* Graph Structure
 * Connectivity
 * Paths (Shortest Path)
 * Trees (Spanning Tree)
