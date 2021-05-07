@@ -12,7 +12,7 @@ White Belt - Theory about graphs
 * Coloring problems
 * Complexity issues
 
-White Belt Glossary : 
+## White Belt Glossary 
 
 | First Header  | Second Header |
 | ------------- | ------------- |
