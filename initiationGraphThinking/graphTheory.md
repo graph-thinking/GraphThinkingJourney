@@ -42,6 +42,7 @@ White Belt - Theory about graphs
 | acyclic graph | |
 | u and v are strongly connected | |
 | connected components | |
+| u and v in a digraph are strongly connected | |
 | tree | | 
 | forest | |
 | leaf l of a tree T |  d(l) = 1 |
