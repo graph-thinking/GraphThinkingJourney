@@ -15,7 +15,7 @@ White Belt - Theory about graphs
 ## White Belt Glossary and Notation
 
 | Terms  | Symbol |
-| ------------- | ------------- |
+| ------------- | ```math SE = \frac{\sigma}{\sqrt{n}}``` |
 | Graph | G = (V,E) |
 | Set of Vertex | V(G) ={v1,v2,...,v5} |
 | Vertex j | $$v_j$$ |
