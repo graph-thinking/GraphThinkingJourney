@@ -57,6 +57,7 @@ White Belt - Theory about graphs
 | Cut of a network | |
 | Capacity of a cut | |
 | Residual network | |
+| Augmenting path | |
 
 ## White Belt Algorithms and Notation
 
