@@ -71,12 +71,10 @@ White Belt - Theory about graphs
 | Shortest Path | SSSP |                                                    
 | Minimal Spanning Tree | MST |
 | Maximum Flow | |
-| Graph Colouring | |
-| Eulerian cycle (path) | | 
-| Chinese postman | |
 | Perfect matching | |
-| Hamiltonian cycle | |
-| Traveling salesman | | 
+| Graph Colouring | |
+| Eulerian cycle (path) - Chinese postman  | | 
+| Hamiltonian cycle - Traveling salesman | | 
 
 
 
