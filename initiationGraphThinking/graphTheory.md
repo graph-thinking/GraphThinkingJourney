@@ -46,7 +46,9 @@ White Belt - Theory about graphs
 | tree | | 
 | forest | |
 | eccentricity | ε(u) = max<sub>v∈V</sub> d(u,v) | 
-|  radius | rad(G) = min<sub>u∈V</sub> ε(u) |
+| radius | rad(G) = min<sub>u∈V</sub> ε(u) |
+| diameter | diam(G) = max<sub>u∈V</sub> ε(u) | 
+| center of a graph G | the set of nodes in V of minimal eccentricity |
 | leaf l of a tree T |  d(l) = 1 |
 
 ## White Belt Algorithms and Notation
