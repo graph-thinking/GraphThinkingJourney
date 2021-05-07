@@ -14,9 +14,9 @@ White Belt - Theory about graphs
 
 ## White Belt Glossary and Notation
 
-| Terms  | Symbol |                                                         | Terms  | Symbol |
-| ------------- | ------------- |                                           | ------------- | ------------- |
-| Graph | G = (V,E) |                                                       | Graph | G = (V,E) |
+| Terms  | Symbol |                                                         
+| ------------- | ------------- |                                          
+| Graph | G = (V,E) |                                                    
 | Set of Vertex | V(G) = {v1,v2,...,v5} |
 | Vertex j | v<sub>j</sub> |
 | Set of Edges | E(G) = {e1,e2,...,e6} |
