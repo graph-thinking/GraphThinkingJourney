@@ -5,8 +5,8 @@ White Belt - Theory about graphs
 ---------------------------------------------------------------------------
 * Graph Structure
 * Connectivity
-* Paths (Shortest Path)
-* Trees (Spanning Tree)
+* Paths
+* Trees
 * Networks and flows (Maximum Flow) - (Matching)
 * Eulerian and Hamiltonian graphs (TSP)
 * Coloring problems
@@ -58,7 +58,7 @@ White Belt - Theory about graphs
 | Depth first search | DFS |
 | Breadth first search | BFS |
 | Shortest Path | SSSP |                                                    
-| Minimum Spanning Tree | MST |
+| Minimal Spanning Tree | MST |
 | Maximum Flow | |
 | Graph Colouring | |
 
