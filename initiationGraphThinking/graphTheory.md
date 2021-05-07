@@ -48,6 +48,7 @@ White Belt - Theory about graphs
 | Shortest Path | SSSP |                                                    
 | Minimum Spanning Tree | MST |
 | Maximum Flow | |
+| Graph Colouring | |
 
 
 
