@@ -51,7 +51,7 @@ White Belt - Theory about graphs
 | center of a graph G | the set of nodes in V of minimal eccentricity |
 | leaf l of a tree T |  d(l) = 1 |
 | Graph is planar | |
-| Network | digraph N = (V,E) with a s source node (d<sub>out</sub>(s) > 0) and a terminal nodet(with d in(t)>0) |
+| Network | digraph N = (V,E) with a s source node (d<sub>out</sub>(s) > 0) and a t terminal nodet(d<sub>in</sub>(t)>0) |
 
 ## White Belt Algorithms and Notation
 
