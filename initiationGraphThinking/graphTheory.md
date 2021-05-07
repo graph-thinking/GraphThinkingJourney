@@ -28,6 +28,12 @@ White Belt - Theory about graphs
 | k-regular graph | |
 | bipartite graph |
 | complete bipartite graph | K<sub>n1, n2</sub> |
+| walk | | 
+| trail | | 
+| path | | 
+| walk / trail closed | | 
+| cycle | |
+| digraph | | 
 
 
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf) -- [Interactive - tutorial](https://visualgo.net/en) -- [Interactive Graph Colouring tutorial](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html)
