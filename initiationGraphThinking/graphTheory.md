@@ -36,6 +36,7 @@ White Belt - Theory about graphs
 | digraph | | 
 | edge in digraph (s source node) (t terminal node) | e = (v<sub>s</sub>,v<sub>t</sub>) | |
 | v has an in-degree | d<sub>in</sub>(v) |
+| v has out-degree | d<sub>out</sub>(v) |
 | acyclic graph | |
 | u and v are strongly connected | |
 | connected components | |
