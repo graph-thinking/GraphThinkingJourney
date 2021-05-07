@@ -50,7 +50,9 @@ White Belt - Theory about graphs
 ## White Belt Algorithms and Notation
 
 | Terms  | Symbol |                                                         
-| ------------- | ------------- |                                          
+| ------------- | ------------- |   
+| Depth first search | DFS |
+| Breadth first search | BFS |
 | Shortest Path | SSSP |                                                    
 | Minimum Spanning Tree | MST |
 | Maximum Flow | |
