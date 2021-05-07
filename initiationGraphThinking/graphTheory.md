@@ -12,6 +12,8 @@ White Belt -> Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning 
 
 [Interactive - tutorial](https://visualgo.net/en)
 
+[Interactive Graph Colouring tutorial](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html)
+
 
 
 ----- other sources ...
