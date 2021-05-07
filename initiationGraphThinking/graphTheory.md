@@ -40,9 +40,8 @@ White Belt - Theory about graphs
 | v has an in-degree | d<sub>in</sub>(v) |
 | v has out-degree | d<sub>out</sub>(v) |
 | acyclic graph | |
-| u and v are strongly connected | |
-| connected components | |
 | u and v in a digraph are strongly connected | |
+| connected components | |
 | tree | | 
 | forest | |
 | eccentricity | ε(u) = max<sub>v∈V</sub> d(u,v) | 
