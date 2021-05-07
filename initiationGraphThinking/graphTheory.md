@@ -57,6 +57,7 @@ White Belt - Theory about graphs
 | Capacity of a cut | |
 | Residual network | |
 | Augmenting path | |
+| k-coloring of a graph G = (V,E) | f : V → 1,...,k such that f(vi) !=f(vj) if (vi,vj) ∈ E
 
 ## White Belt Algorithms and Notation
 
