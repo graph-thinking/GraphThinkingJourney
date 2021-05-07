@@ -1,7 +1,7 @@
 # Graph Theory - Discrete Mathematics (Industry domain unrelated)
 
 ------------------------------------------------------------------------------
-White Belt - Basic theory about graphs
+White Belt - Theory about graphs
 ---------------------------------------------------------------------------
 
 * Connectivity
