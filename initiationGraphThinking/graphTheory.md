@@ -17,9 +17,9 @@ White Belt - Theory about graphs
 | Terms  | Symbol |
 | ------------- | ------------- |
 | Graph | G = (V,E) |
-| Set of Vertex | V(G) ={v1,v2,...,v5} |
+| Set of Vertex | V(G) = {v1,v2,...,v5} |
 | Vertex j | v<sub>j</sub> |
-| Set of Edges | E(G) ={e1,e2,...,e6} |
+| Set of Edges | E(G) = {e1,e2,...,e6} |
 | Edge k | e<sub>k</sub> = (v<sub>j</sub>,v<sub>i</sub>) |
 | Simple Graph| |
 | Degree of a vertex v | d(V) |
