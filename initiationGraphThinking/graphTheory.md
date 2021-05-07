@@ -12,6 +12,13 @@ White Belt - Theory about graphs
 * Coloring problems
 * Complexity issues
 
+White Belt Glossary : 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf) -- [Interactive - tutorial](https://visualgo.net/en) -- [Interactive Graph Colouring tutorial](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html)
 
 
