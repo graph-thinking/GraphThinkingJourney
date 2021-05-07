@@ -1,8 +1,16 @@
 # Graph Theory - Discrete Mathematics (Industry domain unrelated)
 
 ------------------------------------------------------------------------------
-White Belt -> Algorithms - Shortest Path - TSP - Matching - Max flow - Spanning Tree
+White Belt - Basic theory about graphs
 ---------------------------------------------------------------------------
+
+* Connectivity
+* Paths (Shortest Path)
+* Trees (Spanning Tree)
+* Networks and flows (Maximum Flow) - (Matching)
+* Eulerian and Hamiltonian graphs (TSP)
+* Coloring problems
+* Complexity issues
 
 [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 
