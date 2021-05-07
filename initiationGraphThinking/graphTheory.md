@@ -34,7 +34,8 @@ White Belt - Theory about graphs
 | walk / trail closed | | 
 | cycle | |
 | digraph | | 
-| edge in digraph | e = (v<sub>s</sub>,v<sub>t</sub>) | |
+| edge in digraph (s source node) (t terminal node) | e = (v<sub>s</sub>,v<sub>t</sub>) | |
+| v has an in-degree | d<sub>in</sub>(v) |
 | acyclic graph | |
 | u and v are strongly connected | |
 | connected components | |
