@@ -7,10 +7,9 @@ White Belt - Theory about graphs
 * Connectivity
 * Paths
 * Trees
-* Networks and flows (Maximum Flow) - (Matching)
-* Eulerian and Hamiltonian graphs (TSP)
+* Networks and flows
+* Eulerian and Hamiltonian graphs
 * Coloring problems
-* Complexity issues
 
 ## White Belt Glossary and Notation
 
@@ -69,6 +68,11 @@ White Belt - Theory about graphs
 | Minimal Spanning Tree | MST |
 | Maximum Flow | |
 | Graph Colouring | |
+| Eulerian cycle (path) | | 
+| Chinese postman | |
+| Perfect matching | |
+| Hamiltonian cycle | |
+| Traveling salesman | | 
 
 
 
