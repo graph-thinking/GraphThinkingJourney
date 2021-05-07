@@ -54,6 +54,8 @@ White Belt - Theory about graphs
 | Network | digraph N = (V,E) with a s source node (d<sub>out</sub>(s) > 0) and a t terminal node (d<sub>in</sub>(t)>0) - for each edge capacity c(e) > 0 |
 | Flow | f : V<sup>2</sup>→ R<sup>+</sup> is associated with each edgee= (u,v) |
 | Total Flow | F(N) |
+| Cut of a network |
+| Capacity of a cut |
 
 ## White Belt Algorithms and Notation
 
