@@ -21,6 +21,8 @@ White Belt - Theory about graphs
 | Vertex j | v<sub>j</sub> |
 | Set of Edges | E(G) = {e1,e2,...,e6} |
 | Edge k | e<sub>k</sub> = (v<sub>j</sub>,v<sub>i</sub>) |
+| Ajacency Matrix | |
+| Ajacency List | |
 | Simple Graph| |
 | Degree of a vertex v | d(v) |
 | Isolated vertex v | d(v) = 0 |
