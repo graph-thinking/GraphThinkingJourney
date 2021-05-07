@@ -4,12 +4,12 @@
 White Belt - Theory about graphs
 ---------------------------------------------------------------------------
 * Graph Structure
-* Connectivity
 * Paths
 * Trees
 * Networks and flows
 * Eulerian and Hamiltonian graphs
 * Coloring problems
+* Connectivity
 
 ## White Belt Glossary and Notation
 
