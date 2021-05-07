@@ -25,6 +25,9 @@ White Belt - Theory about graphs
 | Degree of a vertex v | d(v) |
 | Isolated vertex v | d(v) = 0 |
 | Complete Graph | K<sub>n</sub> |
+| k-regular graph | |
+| bipartite graph |
+| complete bipartite graph | K<sub>n1, n2</sub> |
 
 
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf) -- [Interactive - tutorial](https://visualgo.net/en) -- [Interactive Graph Colouring tutorial](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html)
