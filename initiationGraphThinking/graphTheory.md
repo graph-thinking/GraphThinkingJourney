@@ -58,7 +58,7 @@ White Belt - Theory about graphs
 | Residual network | |
 | Augmenting path | |
 | k-coloring of a graph G = (V,E) | f : V → 1,...,k such that f(v<sub>i</sub>) !=f(v<sub>j</sub>) if (v<sub>i</sub>,v<sub>j</sub>) ∈ E
-| chromatic number | |
+| chromatic number | χ(G) |
 
 ## White Belt Algorithms and Notation
 
