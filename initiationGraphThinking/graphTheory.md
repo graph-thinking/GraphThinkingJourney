@@ -87,7 +87,7 @@ White Belt - Theory about graphs
 
 | Community Detection Algorithms | Notation |                                                   
 | ------------- | ------------- |
-| Louvain |  |
+| Louvain | http://haithams.github.io/community_visualization/ |
 | Label Propagation | |
 | Weakly Connected Components | |
 | K-1 Colouring | |
