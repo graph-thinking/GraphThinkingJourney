@@ -75,6 +75,7 @@ White Belt - Theory about graphs
 | [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | | 
 | Eulerian cycle (path) - Chinese postman  | | 
 | [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | TSP |  
+
 | Centrality Algorithms | Notation |                                                   
 | ------------- | ------------- |
 | Page Rank | |
