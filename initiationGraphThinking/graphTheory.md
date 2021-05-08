@@ -62,9 +62,9 @@ White Belt - Theory about graphs
 | Independent or stable set | S |
 | Independence number | α(G) |
 
-## White Belt Algorithms and Notation
+## Algorithms and Notation
 
-| Algo | Notation |                                                   
+| Path Finding Algorithms | Notation |                                                   
 | ------------- | ------------- |
 | [Depth first search](https://visualgo.net/en/dfsbfs?slide=1) | DFS |
 | [Breadth first search](https://visualgo.net/en/dfsbfs?slide=1) | BFS |
@@ -75,7 +75,10 @@ White Belt - Theory about graphs
 | [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | | 
 | Eulerian cycle (path) - Chinese postman  | | 
 | [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | TSP |  
-
+| Centrality Algorithms | Notation |                                                   
+| ------------- | ------------- |
+| Page Rank | |
+| Betweeness Centrality | | 
 
 
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
