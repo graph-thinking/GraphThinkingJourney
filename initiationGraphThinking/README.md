@@ -1,5 +1,7 @@
 # Initiation Graph Thinking
 
+![alt text](https://dist.neo4j.com/wp-content/uploads/20201209103856/image3-18.png)
+
 This course is as introduction to graph thinking. 
 
 Audience : people whose job is data-related but doesn't necessary have programming skills.
