@@ -92,6 +92,12 @@ White Belt - Theory about graphs
 | Weakly Connected Components | |
 | K-1 Colouring | |
 
+| Similarity Algorithms | Notation |                                                   
+| ------------- | ------------- |
+
+| Link Prediction Algorithms | Notation |                                                   
+| ------------- | ------------- |
+
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
 
