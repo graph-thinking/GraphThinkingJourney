@@ -80,11 +80,17 @@ White Belt - Theory about graphs
 | ------------- | ------------- |
 | Page Rank | http://www.martingrandjean.ch/wp-content/uploads/2015/10/Gephi-introduction.pdf |
 | Betweeness Centrality |  https://www.cl.cam.ac.uk/teaching/1213/L109/stna-lecture3.pdf| 
-| | https://cambridge-intelligence.com/keylines-faqs-social-network-analysis/|
-| | https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3|
-| | https://docs.yworks.com/yfiles-html/dguide/analysis/analysis-centrality.html|
+| Closeness Centrality | https://cambridge-intelligence.com/keylines-faqs-social-network-analysis/|
+| Degree Centrality | https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3|
+| Eigenvector Centrality | https://docs.yworks.com/yfiles-html/dguide/analysis/analysis-centrality.html|
 | | https://www.lume.ufrgs.br/bitstream/handle/10183/122516/000971709.pdf?sequence=1|
 
+| Community Detection Algorithms | Notation |                                                   
+| ------------- | ------------- |
+| Louvain |  |
+| Label Propagation | |
+| Weakly Connected Components | |
+| K-1 Colouring | |
 
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
