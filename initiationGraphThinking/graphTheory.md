@@ -11,7 +11,7 @@ White Belt - Theory about graphs
 * Coloring problems
 * Connectivity
 
-## White Belt Glossary and Notation
+## White Belt Glossary and Notation - https://visualgo.net/en
 
 | Terms  | Symbol |                                                         
 | ------------- | ------------- |                                          
@@ -78,7 +78,7 @@ White Belt - Theory about graphs
 
 
 
-Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf) -- [Interactive - tutorial](https://visualgo.net/en)
+Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
 
 
