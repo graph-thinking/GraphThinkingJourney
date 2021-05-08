@@ -68,9 +68,9 @@ White Belt - Theory about graphs
 | ------------- | ------------- | ------- |
 | Depth first search | DFS | https://visualgo.net/en/dfsbfs?slide=1 |
 | Breadth first search | BFS | https://visualgo.net/en/dfsbfs?slide=1 |
-| Shortest Path | SSSP | |                                                   
+| Shortest Path | SSSP | https://visualgo.net/en/sssp?slide=1 |                                                   
 | Minimal Spanning Tree | MST ||
-| Maximum Flow | | |
+| Network Flow | | https://visualgo.net/en/maxflow |
 | Perfect matching | | |
 | Graph Colouring | | |
 | Eulerian cycle (path) - Chinese postman  | | | 
