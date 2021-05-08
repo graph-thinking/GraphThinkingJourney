@@ -11,9 +11,9 @@ Audience : people whose job is data-related but doesn't necessary have programmi
 
 Program: 
 
-* Why - What - When Grath Thinking (Discrete thinking - hybrid) Slides - 2 Hours module 
+* Why - What - When - Graph Thinking (Discrete thinking - hybrid) Slides - 2 Hours module 
 
-* [(Interactive) Graph Theory - Graphs in theory](./graphTheory.md) - 2+2 Hours module
+* [Graphs in theory](./graphTheory.md) - 2+2 Hours module
 
 * [Graphs in practice](./graphPractice.md) - 2 + 2 + 2 Hours module 
 
