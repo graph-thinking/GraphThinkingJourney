@@ -67,7 +67,7 @@ White Belt - Theory about graphs
 | Terms  | Symbol | Link |                                                        
 | ------------- | ------------- | ------- |
 | Depth first search | DFS | https://visualgo.net/en/dfsbfs?slide=1 |
-| Breadth first search | BFS | |
+| Breadth first search | BFS | https://visualgo.net/en/dfsbfs?slide=1 |
 | Shortest Path | SSSP | |                                                   
 | Minimal Spanning Tree | MST ||
 | Maximum Flow | | |
