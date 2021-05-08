@@ -65,16 +65,16 @@ White Belt - Theory about graphs
 ## White Belt Algorithms and Notation
 
 | Terms  | Symbol | Link |                                                        
-| ------------- | ------------- |   
+| ------------- | ------------- | ------- |
 | Depth first search | DFS | https://visualgo.net/en/dfsbfs?slide=1 |
-| Breadth first search | BFS |
-| Shortest Path | SSSP |                                                    
-| Minimal Spanning Tree | MST |
-| Maximum Flow | |
-| Perfect matching | |
-| Graph Colouring | |
-| Eulerian cycle (path) - Chinese postman  | | 
-| Hamiltonian cycle - Traveling salesman | | 
+| Breadth first search | BFS | |
+| Shortest Path | SSSP | |                                                   
+| Minimal Spanning Tree | MST ||
+| Maximum Flow | | |
+| Perfect matching | | |
+| Graph Colouring | | |
+| Eulerian cycle (path) - Chinese postman  | | | 
+| Hamiltonian cycle - Traveling salesman | | |
 
 
 
