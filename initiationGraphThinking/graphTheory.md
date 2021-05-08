@@ -71,7 +71,7 @@ White Belt - Theory about graphs
 | Shortest Path | SSSP | https://visualgo.net/en/sssp?slide=1 |                                                   
 | Minimal Spanning Tree | MST ||
 | Network Flow | | https://visualgo.net/en/maxflow |
-| Perfect matching | | |
+| Matching - Maximum Cardinality Matching | MCM | https://visualgo.net/en/matching?slide=1 |
 | Graph Colouring | | |
 | Eulerian cycle (path) - Chinese postman  | | | 
 | Hamiltonian cycle - Traveling salesman | TSP | https://visualgo.net/en/tsp?slide=1 |
