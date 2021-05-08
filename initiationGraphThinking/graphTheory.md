@@ -69,7 +69,7 @@ White Belt - Theory about graphs
 | [Depth first search](https://visualgo.net/en/dfsbfs?slide=1) | DFS |
 | [Breadth first search](https://visualgo.net/en/dfsbfs?slide=1) | BFS |
 | [Shortest Path](https://visualgo.net/en/sssp?slide=1)| SSSP |                                                   
-| Minimal Spanning Tree | MST |
+| [Minimal Spanning Tree](https://visualgo.net/en/mst?slide=1) | MST |
 | [Network Flow](https://visualgo.net/en/maxflow) | | 
 | [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) | MCM |
 | [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | | 
