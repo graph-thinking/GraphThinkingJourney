@@ -78,7 +78,7 @@ White Belt - Theory about graphs
 
 
 
-Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
+Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
 
 
@@ -105,8 +105,6 @@ we refer to the glossary ...
 
 
 * others video - https://www.youtube.com/playlist?list=PLeIMaH7i8JDiRA4fK9QmjvDSZKBJDyxpc
-
-Sarada Herke - https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg
 
 * https://medium.com/brandons-computer-science-notes/graph-theory-3bd99b24fa2a
 
