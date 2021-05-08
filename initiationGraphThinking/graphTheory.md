@@ -97,8 +97,17 @@ Yellow Belt - Gephi - https://gephi.org/tutorials/gephi-tutorial-quick_start.pdf
 | Similarity Algorithms | Notation |                                                   
 | ------------- | ------------- |
 
+Green Belt
+
 | Link Prediction Algorithms | Notation |                                                   
 | ------------- | ------------- |
+| | http://ijera.com/papers/Vol2_issue6/DB26703707.pdf |
+| | https://hpi.de/fileadmin/user_upload/fachgebiete/mueller/courses/graphmining/GraphMining-08-LinkPrediction.pdf |
+| | https://www.hindawi.com/journals/mpe/2014/453546/ | 
+| | https://www.researchgate.net/figure/Samples-created-using-Gephi-for-both-data-sets-before-and-after-link-prediction-a-10_fig2_311711865 |
+| | http://arno.uvt.nl/show.cgi?fid=147418 |
+| | https://linkpredictiontool.blogspot.com/ |
+| | https://gitlab.fhnw.ch/marco.romanutti/gephi-plugins/tree/master/modules/LinkPrediction |
 
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
