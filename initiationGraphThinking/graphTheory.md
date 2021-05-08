@@ -74,7 +74,7 @@ White Belt - Theory about graphs
 | Perfect matching | | |
 | Graph Colouring | | |
 | Eulerian cycle (path) - Chinese postman  | | | 
-| Hamiltonian cycle - Traveling salesman | | |
+| Hamiltonian cycle - Traveling salesman | TSP | https://visualgo.net/en/tsp?slide=1 |
 
 
 
