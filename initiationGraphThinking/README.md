@@ -13,7 +13,7 @@ Audience : people whose job is data-related but doesn't necessary have programmi
 
 Program: 
 
-* Why - What - When - Graph Thinking (Discrete thinking - hybrid) Slides - 2 Hours module 
+* Why - What - When - Graph Thinking (Discrete thinking - hybrid) Slides - 2 Hours module - https://neo4j.com/blog/evolving-your-application-of-gds-technology/
 
 * [Graphs in theory](./graphTheory.md) - 2+2 Hours module
 
@@ -27,7 +27,13 @@ Program:
 
 * [Graph Data Visualization](./graphVisualization.md) - 2 Hours module
 
-* Hello World of Graph Thinking : Shortest Path ... - Problem Life Cycle --- from real problem to jupyter to production ready - 2 + 2 H module
+* Hello World of Graph Thinking : Fraude ... - Problem Life Cycle --- from real problem to jupyter to production ready - 2 + 2 H module
+
+* Auto  Growing Knowledge Graph - https://www.techscience.com/cmc/v67n3/41630 - https://scholarworks.bwise.kr/gachon/handle/2020.sw.gachon/80557
+
+* Graph embeddings - https://www.youtube.com/watch?v=igbuMHBuO1M
+
+* Graph Native ML (input output graph) - https://neo4j.com/blog/announcing-graph-native-machine-learning-in-neo4j/ - https://github.com/deepmind/graph_nets - https://arxiv.org/pdf/1806.01261.pdf 
 
 * From A till Z - Problem solved by simple query - Working at most with not linear DSA
 
