@@ -35,6 +35,8 @@ Program:
 
 * Graph Native ML (input output graph) - https://neo4j.com/blog/announcing-graph-native-machine-learning-in-neo4j/ - https://github.com/deepmind/graph_nets - https://arxiv.org/pdf/1806.01261.pdf 
 
+* Graph Networks - https://inspirehep.net/literature/1808887 - https://slideslive.com/38923988/graph-networks-for-learning-physics - https://www.youtube.com/watch?v=RwrzKtnSwrw
+
 * From A till Z - Problem solved by simple query - Working at most with not linear DSA
 
 * From A till Z - Problem solved by simple algorithm - Working at most with not linear DSA
