@@ -72,7 +72,7 @@ White Belt - Theory about graphs
 | [Minimal Spanning Tree](https://visualgo.net/en/mst?slide=1) | MST |
 | [Network Flow](https://visualgo.net/en/maxflow) | | 
 | [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) | MCM |
-| [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | | 
+| [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | https://www.slideshare.net/PriyankJain26/graph-coloring-48222920| 
 | Eulerian cycle (path) - Chinese postman  | | 
 | [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | TSP |  
 
@@ -101,7 +101,7 @@ Yellow Belt - Cytoscape - https://enrichmentmap.readthedocs.io/en/latest/Creatin
                           http://www.cgl.ucsf.edu/Outreach/Workshops/NIH-Oct-2012/Cytoscape/Analysis%20and%20Visualization%20of%20Biological%20Networks%20with%20Cytoscape%20v6.pdf
                           https://cytogedevo.compbio.sdu.dk/
 
-| Centrality Algorithms | Notation |                                                   
+| Centrality Algorithms | Notation |        -- https://towardsdatascience.com/notes-on-graph-theory-centrality-measurements-e37d2e49550a                                           
 | ------------- | ------------- |
 | Page Rank | http://www.martingrandjean.ch/wp-content/uploads/2015/10/Gephi-introduction.pdf |
 | Betweeness Centrality |  https://www.cl.cam.ac.uk/teaching/1213/L109/stna-lecture3.pdf| 
