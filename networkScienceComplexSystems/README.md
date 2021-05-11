@@ -1,5 +1,9 @@
 # Network Science - Complex Systems
 
+books on http://assets.press.princeton.edu/chapters/s8114.pdf
+
+https://lief.if.ufrgs.br/pub/biosoftwares/EBB2009/book.pdf
+
 In many cases it is useful to represent such a system as a network where the nodes represent the components and the links their interactions.
 Department of network and datascience ........
 
