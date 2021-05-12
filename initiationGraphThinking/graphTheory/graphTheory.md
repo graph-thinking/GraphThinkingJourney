@@ -13,54 +13,6 @@ White Belt - Theory about graphs
 
 ## White Belt Glossary and Notation - https://visualgo.net/en
 
-| Terms  | Symbol |                                                         
-| ------------- | ------------- |                                          
-| Graph | G = (V,E) |                                                    
-| Set of Vertex | V(G) = {v1,v2,...,v5} |
-| Vertex j | v<sub>j</sub> |
-| Set of Edges | E(G) = {e1,e2,...,e6} |
-| Edge k | e<sub>k</sub> = (v<sub>j</sub>,v<sub>i</sub>) |
-| Ajacency Matrix | |
-| Ajacency List | |
-| A graph G′ = (V′,E′) is a subgraph of a graph G = (V,E) | |
-| Simple Graph| |
-| Degree of a vertex v | d(v) |
-| Isolated vertex v | d(v) = 0 |
-| Complete Graph | K<sub>n</sub> |
-| k-regular graph | |
-| bipartite graph |
-| complete bipartite graph | K<sub>n1, n2</sub> |
-| walk | | 
-| trail | | 
-| path | | 
-| walk / trail closed | | 
-| cycle | |
-| digraph | | 
-| edge in digraph (s source node) (t terminal node) | e = (v<sub>s</sub>,v<sub>t</sub>) | |
-| v has an in-degree | d<sub>in</sub>(v) |
-| v has out-degree | d<sub>out</sub>(v) |
-| acyclic graph | |
-| u and v in a digraph are strongly connected | |
-| connected components | |
-| tree | | 
-| forest | |
-| eccentricity | ε(u) = max<sub>v∈V</sub> d(u,v) | 
-| radius | rad(G) = min<sub>u∈V</sub> ε(u) |
-| diameter | diam(G) = max<sub>u∈V</sub> ε(u) | 
-| center of a graph G | the set of nodes in V of minimal eccentricity |
-| leaf l of a tree T |  d(l) = 1 |
-| Graph is planar | |
-| Network | digraph N = (V,E) with a s source node (d<sub>out</sub>(s) > 0) and a t terminal node (d<sub>in</sub>(t)>0) - for each edge capacity c(e) > 0 |
-| Flow | f : V<sup>2</sup>→ R<sup>+</sup> is associated with each edgee= (u,v) |
-| Total Flow | F(N) | |
-| Cut of a network | |
-| Capacity of a cut | |
-| Residual network | |
-| Augmenting path | |
-| k-coloring of a graph G = (V,E) | f : V → 1,...,k such that f(v<sub>i</sub>) !=f(v<sub>j</sub>) if (v<sub>i</sub>,v<sub>j</sub>) ∈ E
-| Chromatic number | χ(G) |
-| Independent or stable set | S |
-| Independence number | α(G) |
 
 ## Algorithms and Notation
 
