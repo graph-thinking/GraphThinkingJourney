@@ -1,21 +1,22 @@
 
-# Graph Terminology
+# Graph Terminology - https://visualgo.net/en
 
-| Terms  | Symbol |                                                         
-| ------------- | ------------- |                                          
-| Graph | G = (V,E) |                                 
-| Set of Vertex | V(G) = {v1,v2,...,v5} | The vertices u and v are called the end vertices of the edge (u,v)                    
-| Vertex j | v<sub>j</sub> |
-| If two edges have the same end vertices they are Parallel | |
-| An edge of the form (v,v) is a loop | | 
-| Set of Edges | E(G) = {e1,e2,...,e6} |
-| Edge k | e<sub>k</sub> = (v<sub>j</sub>,v<sub>i</sub>) |
+* [Glossary on Graph Theory](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms)
+
+| Symbol | Terms  | Comments |                                                         
+| ------------- | ------------- | ----------------- |                                          
+| G = (V,E) | Graph |                                 
+| V(G) = {v1,v2,...,v5} | Set of Vertex  | The vertices u and v are called the end vertices of the edge (u,v) |                    
+| v<sub>j</sub> | Vertex j | If two edges have the same end vertices they are Parallel |
+| | An edge of the form (v,v) is a loop | 
+| E(G) = {e1,e2,...,e6} | Set of Edges | |
+| e<sub>k</sub> = (v<sub>j</sub>, v<sub>i</sub>) | Edge k | 
 | Ajacency Matrix | |
 | Ajacency List | |
 | A graph G′ = (V′,E′) is a subgraph of a graph G = (V,E) | |
 | Simple Graph| |
-| Degree of a vertex v | d(v) |
-| Isolated vertex v | d(v) = 0 |
+| d(v) | Degree of a vertex v | |
+| d(v) = 0 | Isolated vertex v | | 
 | Complete Graph | K<sub>n</sub> |
 | k-regular graph | |
 | bipartite graph |
@@ -72,7 +73,7 @@
 *  A Trail is a Path if ANY vertex is traversed atmost once (Except for a closed walk)
 *  A Closed Path is a Circuit – Analogous to electrical circuits''
 
-* [Glossary on Graph Theory](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms)
+
 
 # Graph Properties 
 
