@@ -8,7 +8,7 @@
 | G = (V,E) | Graph |                                 
 | V(G) = {v1,v2,...,v5} | Set of Vertex  | The vertices u and v are called the end vertices of the edge (u,v) |                    
 | v<sub>j</sub> | Vertex j | If two edges have the same end vertices they are Parallel |
-| | An edge of the form (v,v) is a loop | 
+| (v,v) | An edge of this form is a loop | 
 | E(G) = {e1,e2,...,e6} | Set of Edges | |
 | e<sub>k</sub> = (v<sub>j</sub>, v<sub>i</sub>) | Edge k | 
 | Ajacency Matrix | |
