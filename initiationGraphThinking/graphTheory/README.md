@@ -13,9 +13,9 @@ White Belt - Theory about graphs
 
 ## Path - Cycle Finding Algorithms
 
-| Notation | Algorithm | Time complexity - undir - unweighted | Time complexity - dir - unweighted | Time complexity - undir - weighted | Time complexity - dir - weighted |                                                  
+| Notation | Algorithm | Time compl. - undir - unweighted | Time compl. - dir - unweighted | Time compl. - undir - weighted | Time compl. - dir - weighted |                                                  
 | ------------- | ------------- | -------------- |
-| SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V2) 	Dijkstra 1959 -- for unweighted BFS|
+| SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V2) 	Dijkstra 1959 -- BFS|
 |All Pairs Shortest Path | | |
 | DFS | [Depth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
 | BFS | [Breadth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
@@ -97,6 +97,17 @@ Green Belt
 
 Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
+
+* https://www.cs.utexas.edu/~isil/cs311h/lecture-graph1b-6up.pdf
+* http://www.math-cs.gordon.edu/courses/mat230/notes/graphs.pdf
+
+Support : Discrete Mathematics - 
+* https://faculty.atu.edu/mfinan/main2.pdf
+* https://www.cis.upenn.edu/~jean/discmath-root-b.pdf
+* https://web.stanford.edu/class/cs103x/cs103x-notes.pdf
+* https://home.iitk.ac.in/~arlal/book/mth202.pdf
+* https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf
+* http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf
 
 
 ----- other sources ...
