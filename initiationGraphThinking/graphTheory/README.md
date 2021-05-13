@@ -13,7 +13,7 @@ White Belt - Theory about graphs
 
 ## Path - Cycle Finding Algorithms
 
-| Notation | Algorithm | Time complexity |                                                 
+| Notation | Algorithm | Time complexity - undir - unweighted | Time complexity - dir - unweighted | Time complexity - undir - weighted | Time complexity - dir - weighted |                                                  
 | ------------- | ------------- | -------------- |
 | SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V2) 	Dijkstra 1959 -- for unweighted BFS|
 |All Pairs Shortest Path | | |
