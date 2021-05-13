@@ -4,7 +4,7 @@ There are no isolated pieces of information in this connected world, but rich an
 
 Understanding the connections between data, and deriving meaning from these links, doesn’t necessarily mean gathering new data. Significant insightscan be drawn from one’s existing data, simply by reframing the problem and looking at it in a new way: as a Graph.
 
-From a metaphysic perspective we all belongs to an [Universal Graph](https://en.wikipedia.org/wiki/Universal_graph).
+From a metaphysic perspective we all belong to an [Universal Graph](https://en.wikipedia.org/wiki/Universal_graph).
 
 We are inspired by such community - https://www.graphfoundation.org/ - https://www.meetup.com/graphql-berlin/ and standard organization - http://ldbcouncil.org/ - we are not married to a particolar technology
 
