@@ -1,5 +1,5 @@
 
-# [Graph Terminology](https://visualgo.net/en/graphds?slide=1) and [complete glossary wikipedia](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms)
+# [Graph Terminology](https://visualgo.net/en/graphds?slide=1) and [glossary wikipedia](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms)
 
 | Symbol | Terms  | Comments |                                                         
 | ------------- | ------------- | ----------------- |                                          
