@@ -13,8 +13,8 @@ White Belt - Theory about graphs
 
 ## Path - Cycle Finding Algorithms
 
-| Notation | Algorithm | Time compl. - undir - unweighted | Time compl. - dir - unweighted | Time compl. - undir - weighted | Time compl. - dir - weighted |                                                  
-| ------------- | ------------- | -------------- |
+| Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
+| ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
 | SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V2) 	Dijkstra 1959 -- BFS|
 |All Pairs Shortest Path | | |
 | DFS | [Depth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
