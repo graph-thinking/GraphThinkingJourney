@@ -52,7 +52,7 @@ White Belt - Theory about graphs
 | Label Propagation | |
 | Weakly Connected Components | |
 | K-1 Colouring | |
-| [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | https://www.slideshare.net/PriyankJain26/graph-coloring-48222920| 
+| [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | https://www.slideshare.net/PriyankJain26/graph-coloring-48222920| https://www.geeksforgeeks.org/graph-coloring-applications/ |
 | Triangle Count | | |
 | Local Clustering Coefficient | | |
 | Modularity Optimization | | |
