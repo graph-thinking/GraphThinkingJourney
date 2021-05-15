@@ -16,16 +16,16 @@
 | d(v) | Degree of a vertex v | |
 | d(v) = 0 | Isolated vertex v | | 
 |K<sub>n</sub>  | Complete Graph | |
-| k-regular graph | |
-| bipartite graph |
-| complete bipartite graph | K<sub>n1, n2</sub> |
-| walk | | 
-| trail | | 
-| path | | 
-| walk / trail closed | | 
-| cycle | |
-| digraph | | 
-| edge in digraph (s source node) (t terminal node) | e = (v<sub>s</sub>,v<sub>t</sub>) | |
+| | k-regular graph | |
+| | bipartite graph |
+|K<sub>n1, n2</sub> | complete bipartite graph |  |
+|| walk | | 
+|| trail | | 
+|| path | | 
+|| walk / trail closed | | 
+|| cycle | |
+|| digraph | | 
+| e = (v<sub>s</sub>,v<sub>t</sub>) | edge in digraph (s source node) (t terminal node) |  | |
 | v has an in-degree | d<sub>in</sub>(v) |
 | v has out-degree | d<sub>out</sub>(v) |
 | acyclic graph | |
