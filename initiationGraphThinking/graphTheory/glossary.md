@@ -11,7 +11,7 @@
 | e<sub>k</sub> = (v<sub>j</sub>, v<sub>i</sub>) | Edge k | 
 || Ajacency Matrix | |
 || Ajacency List | |
-|| A graph G′ = (V′,E′) is a subgraph of a graph G = (V,E) | |
+| G′ = (V′,E′) | Subgraph of a graph G = (V,E) | |
 || Simple Graph| |
 | d(v) | Degree of a vertex v | |
 | d(v) = 0 | Isolated vertex v | | 
