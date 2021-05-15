@@ -28,8 +28,8 @@ White Belt - Theory about graphs
 
 | Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
 | ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
-| [Network Flow](https://visualgo.net/en/maxflow) | O(max_flow * E) | | O(max_flow * E) |
-| [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) | MCM | |  O ( V <sup>2</sup> E ) |
+| | [Network Flow](https://visualgo.net/en/maxflow) | O(max_flow * E) | O(max_flow * E) |
+| MCM | [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) |  |  O ( V <sup>2</sup> E ) |
 
 ## Centrality Algorithms -- https://towardsdatascience.com/notes-on-graph-theory-centrality-measurements-e37d2e49550a                                           
 
