@@ -35,8 +35,8 @@
 | tree | | 
 | forest | |
 | ε(u) = max<sub>v∈V</sub> d(u,v) | eccentricity |  
-| radius | rad(G) = min<sub>u∈V</sub> ε(u) |
-| diameter | diam(G) = max<sub>u∈V</sub> ε(u) | 
+|  rad(G) = min<sub>u∈V</sub> ε(u) | radius |
+| diam(G) = max<sub>u∈V</sub> ε(u) | diameter | 
 | center of a graph G | the set of nodes in V of minimal eccentricity |
 | leaf l of a tree T |  d(l) = 1 |
 | Graph is planar | |
