@@ -12,7 +12,7 @@
 || Ajacency Matrix | |
 || Ajacency List | |
 | G′ = (V′,E′) | Subgraph of a graph G = (V,E) | |
-|| Simple Graph| |
+|| Simple Graph| A Graph is simple if it has no parallel edges and loops |
 | d(v) | Degree of a vertex v | |
 | d(v) = 0 | Isolated vertex v | | 
 |K<sub>n</sub>  | Complete Graph | |
@@ -26,8 +26,8 @@
 || cycle | |
 || digraph | | 
 | e = (v<sub>s</sub>,v<sub>t</sub>) | edge in digraph (s source node) (t terminal node) |  | |
-| v has an in-degree | d<sub>in</sub>(v) |
-| v has out-degree | d<sub>out</sub>(v) |
+| d<sub>in</sub>(v) | v has an in-degree |  |
+| d<sub>out</sub>(v)| v has out-degree |  |
 | acyclic graph | |
 | u and v in a digraph are strongly connected | |
 | connected components | |
@@ -52,10 +52,7 @@
 | Independence number | α(G) |
 
 
-*  
-*  
-*  
-*  A Graph is simple if it has no parallel edges and loops
+* 
 *  A Graph is said to be Empty if it has no edges. Meaning E is empty
 *  A Graph is a Null Graph if it has no vertices. Meaning V and E is empty
 *  A Graph with only 1 Vertex is a Trivial graph
