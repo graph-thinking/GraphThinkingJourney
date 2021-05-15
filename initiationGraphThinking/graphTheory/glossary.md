@@ -13,7 +13,7 @@
 || Ajacency List | |
 | G′ = (V′,E′) | Subgraph of a graph G = (V,E) | |
 || Simple Graph| A Graph is simple if it has no parallel edges and loops |
-| d(v) | Degree of a vertex v | |
+| d(v) | Degree of a vertex v |  The degree of the vertex v, written as d(v), is the number of edges with v as an end vertex. |
 | d(v) = 0 | Isolated vertex v | | 
 |K<sub>n</sub>  | Complete Graph | A Graph is Complete if its edge set contains every possible edge between ALL of the vertices |
 | | k-regular graph | |
@@ -57,9 +57,7 @@
 *  A Graph is a Null Graph if it has no vertices. Meaning V and E is empty
 *  A Graph with only 1 Vertex is a Trivial graph
 *  Edges are Adjacent if they have a common vertex. Vertices are Adjacent if they have a common edge
-*  The degree of the vertex v, written as d(v), is the number of edges with v as an end vertex. 
 *  By convention, we count a loop twice and parallel edges contribute separately
-*  Isolated Vertices are vertices with degree 1. d(1) vertices are isolated
 * A Walk is Open if the initial and final vertices are different. A Walk is Closed if the initial and final vertices are the same
 
 
