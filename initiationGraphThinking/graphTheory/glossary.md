@@ -21,7 +21,8 @@
 |K<sub>n1, n2</sub> | complete bipartite graph |  |
 || walk | A Walk in a Graph G = (V,E) is a finite, alternating sequence of the form ViEiViEi consisting of vertices and edges of the graph G | 
 || trail | A Walk is a Trail if ANY edge is traversed atmost once | 
-|| path | | 
+|| path | A Walk is Open if the initial and final vertices are different. A Walk is Closed if the initial and final vertices are the same
+ | 
 || walk / trail closed | A Trail is a Path if ANY vertex is traversed atmost once (Except for a closed walk) | 
 | | Circuit | A Closed Path is a Circuit – Analogous to electrical circuits'' |
 || cycle | |
@@ -58,7 +59,6 @@
 *  A Graph with only 1 Vertex is a Trivial graph
 *  Edges are Adjacent if they have a common vertex. Vertices are Adjacent if they have a common edge
 *  By convention, we count a loop twice and parallel edges contribute separately
-* A Walk is Open if the initial and final vertices are different. A Walk is Closed if the initial and final vertices are the same
 
 
 # Graph Properties 
