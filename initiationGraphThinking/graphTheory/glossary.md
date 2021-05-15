@@ -9,13 +9,13 @@
 | (v,v) | An edge of this form is a loop | 
 | E(G) = {e1,e2,...,e6} | Set of Edges | |
 | e<sub>k</sub> = (v<sub>j</sub>, v<sub>i</sub>) | Edge k | 
-| Ajacency Matrix | |
-| Ajacency List | |
-| A graph G′ = (V′,E′) is a subgraph of a graph G = (V,E) | |
-| Simple Graph| |
+|| Ajacency Matrix | |
+|| Ajacency List | |
+|| A graph G′ = (V′,E′) is a subgraph of a graph G = (V,E) | |
+|| Simple Graph| |
 | d(v) | Degree of a vertex v | |
 | d(v) = 0 | Isolated vertex v | | 
-| Complete Graph | K<sub>n</sub> |
+|K<sub>n</sub>  | Complete Graph | |
 | k-regular graph | |
 | bipartite graph |
 | complete bipartite graph | K<sub>n1, n2</sub> |
