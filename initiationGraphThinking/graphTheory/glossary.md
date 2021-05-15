@@ -53,7 +53,6 @@
 | α(G) | Independence number | 
 
 
-* 
 *  A Graph is said to be Empty if it has no edges. Meaning E is empty
 *  A Graph is a Null Graph if it has no vertices. Meaning V and E is empty
 *  A Graph with only 1 Vertex is a Trivial graph
@@ -61,8 +60,6 @@
 *  The degree of the vertex v, written as d(v), is the number of edges with v as an end vertex. 
 *  By convention, we count a loop twice and parallel edges contribute separately
 *  Isolated Vertices are vertices with degree 1. d(1) vertices are isolated
-*  
-*  
 * A Walk is Open if the initial and final vertices are different. A Walk is Closed if the initial and final vertices are the same
 
 
