@@ -15,6 +15,7 @@ White Belt - Theory about graphs
 
 | Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
 | ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
+| BST | [Binary search tree](https://visualgo.net/en/bst?slide=1) | O(N) 
 | DFS | [Depth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
 | BFS | [Breadth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
 | SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V<sup>2</sup>) | O(E + V) |
