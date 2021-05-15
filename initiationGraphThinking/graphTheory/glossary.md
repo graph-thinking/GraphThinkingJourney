@@ -21,8 +21,7 @@
 |K<sub>n1, n2</sub> | complete bipartite graph |  |
 || walk | Finite, alternating sequence of the form V<sub>i</sub>E<sub>i</sub>V<sub>i</sub>E<sub>i</sub> consisting of vertices and edges | 
 || trail | A Walk is a Trail if ANY edge is traversed atmost once | 
-|| path | A Walk is Open if the initial and final vertices are different. A Walk is Closed if the initial and final vertices are the same
- | 
+|| path | A Walk is Open if the initial and final vertices are different. A Walk is Closed if the initial and final vertices are the same| 
 || walk / trail closed | A Trail is a Path if ANY vertex is traversed atmost once (Except for a closed walk) | 
 | | Circuit | A Closed Path is a Circuit – Analogous to electrical circuits'' |
 || cycle | |
