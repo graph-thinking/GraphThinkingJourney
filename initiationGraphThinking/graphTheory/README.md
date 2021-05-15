@@ -15,10 +15,10 @@ White Belt - Theory about graphs
 
 | Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
 | ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
-| SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V<sup>2</sup>) | O(E + V) |
-|All Pairs Shortest Path | | |
 | DFS | [Depth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
 | BFS | [Breadth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
+| SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V<sup>2</sup>) | O(E + V) |
+|All Pairs Shortest Path | | |
 | Eulerian cycle (path) - Chinese postman  | |
 | [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | TSP |  
 | MST |  [Minimal Weight Spanning Tree](https://visualgo.net/en/mst?slide=1) 
