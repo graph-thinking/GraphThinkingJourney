@@ -24,6 +24,12 @@ White Belt - Theory about graphs
 | MST |  [Minimal Weight Spanning Tree](https://visualgo.net/en/mst?slide=1) 
 | Random Walk | | https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/random-walk/ | https://isquared.digital/blog/2020-04-12-random-walk/
 
+## Other Algorithms 
+
+| Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
+| ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
+| [Network Flow](https://visualgo.net/en/maxflow) | | | O(V2) 	Dijkstra 1959 -- BFS|
+| [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) | MCM | | O(V2) 	Dijkstra 1959 -- BFS|
 
 ## Centrality Algorithms -- https://towardsdatascience.com/notes-on-graph-theory-centrality-measurements-e37d2e49550a                                           
 
@@ -85,12 +91,6 @@ White Belt - Theory about graphs
 FastRP
 GraphSAGE
 Node2Vec
-
-
-| [Network Flow](https://visualgo.net/en/maxflow) | | 
-| [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) | MCM |
- 
-
 
 Green Belt
 
