@@ -22,7 +22,7 @@ White Belt - Theory about graphs
 | SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V<sup>2</sup>) | O(E + V) |
 | | All Pairs Shortest Path | | |
 | | Eulerian cycle (path) - Chinese postman  | |
-| | [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | TSP |  
+| TSP | [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | |  
 | MST |  [Minimal Weight Spanning Tree](https://visualgo.net/en/mst?slide=1) 
 | | Random Walk | | https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/random-walk/ | https://isquared.digital/blog/2020-04-12-random-walk/
 
