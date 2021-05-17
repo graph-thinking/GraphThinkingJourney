@@ -11,6 +11,8 @@ White Belt - Theory about graphs
 * Coloring problems
 * Connectivity
 
+* Soft introduction to algorithms -- https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3
+
 ## Path - Cycle Finding Algorithms
 
 | Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
