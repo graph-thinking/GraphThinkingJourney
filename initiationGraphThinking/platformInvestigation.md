@@ -26,6 +26,14 @@ Tools:
 
 * [1st tutorial](https://gephi.org/users/quick-start/)
 * [2nd tutorial](https://gephi.org/users/tutorial-visualization/)
+
+Tutorial Import data 
+* https://research.bowdoin.edu/digital-computational-studies/digital-computational-studies/excel-data-and-gephi-data-laboratory/
+
+Tutorial Related #############################################################
+* SNA - Facebook - Facebook Graph Api - apps.facebook.com/netvizz/
+* Horrible SNA conclusion - facebook - https://medium.com/@johnrobb/facebook-the-complete-social-graph-b58157ee6594
+
 * https://www.youtube.com/watch?v=gcfAT8aMxuQ
 * https://hub.packtpub.com/creating-network-graphs-gephi/
 * https://github.com/gephi/gephi-plugins/pull/212
