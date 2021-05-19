@@ -22,10 +22,10 @@ Platform:
 
 Tools:
 
-Yellow Belt - [Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf)
+[Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf)
 
-* https://gephi.org/tutorials/gephi-tutorial-quick_start.pdf
-* https://gephi.org/users/tutorial-visualization/
+* [1st tutorial](https://gephi.org/tutorials/gephi-tutorial-quick_start.pdf)
+* [2nd tutorial](https://gephi.org/users/tutorial-visualization/)
 * https://www.youtube.com/watch?v=gcfAT8aMxuQ
 * https://hub.packtpub.com/creating-network-graphs-gephi/
 * https://github.com/gephi/gephi-plugins/pull/212
@@ -34,19 +34,21 @@ Yellow Belt - [Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf
 * https://www.youtube.com/watch?v=dSx5_PjaWVE
 
 
- networkx and gephi - https://medium.com/analytics-vidhya/implement-louvain-community-detection-algorithm-using-python-and-gephi-with-visualization-871250fb2f25
-                      https://github.com/gephi/gephi/issues/2129
-                      https://perso.uclouvain.be/vincent.blondel/research/louvain.html
-                      https://arxiv.org/pdf/1708.00977.pdf
-                      https://meta.wikimedia.org/wiki/Research:Community_visualization_using_Gephi
-                      https://dbs.uni-leipzig.de/file/edbt-demopaper.pdf
+ networkx and gephi - 
+ * https://medium.com/analytics-vidhya/implement-louvain-community-detection-algorithm-using-python-and-gephi-with-visualization-871250fb2f25
+ * https://github.com/gephi/gephi/issues/2129
+ * https://perso.uclouvain.be/vincent.blondel/research/louvain.html
+ * https://arxiv.org/pdf/1708.00977.pdf
+ * https://meta.wikimedia.org/wiki/Research:Community_visualization_using_Gephi
+ * https://dbs.uni-leipzig.de/file/edbt-demopaper.pdf
 
-python and gephi ---       https://github.com/totetmatt/GephiStreamer  
-                           https://github.com/samuelegervasio/Gephi-python-module 
-                           https://jsideas.net/creating-an-edge-list-for-gephi-with-python/   
-                           https://westgrid.github.io/trainingMaterials/materials/gephi/         
-                           https://pypi.org/project/GraphiPy/ 
-                           https://stackoverflow.com/questions/35936991/how-to-create-gephi-network-graphs-from-python
+As python and excel - or excel macro --- visual basic we have python and gephi ---       
+* https://github.com/totetmatt/GephiStreamer  
+* https://github.com/samuelegervasio/Gephi-python-module 
+* https://jsideas.net/creating-an-edge-list-for-gephi-with-python/   
+* https://westgrid.github.io/trainingMaterials/materials/gephi/         
+* https://pypi.org/project/GraphiPy/ 
+* https://stackoverflow.com/questions/35936991/how-to-create-gephi-network-graphs-from-python
                       
 Yellow Belt - Cytoscape - https://enrichmentmap.readthedocs.io/en/latest/CreatingNetwork.html
                           https://apps.cytoscape.org/apps/with_tag/clustering
