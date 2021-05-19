@@ -24,7 +24,7 @@ Tools:
 
 [Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf)
 
-* [1st tutorial](https://gephi.org/tutorials/gephi-tutorial-quick_start.pdf)
+* [1st tutorial](https://gephi.org/users/quick-start/)
 * [2nd tutorial](https://gephi.org/users/tutorial-visualization/)
 * https://www.youtube.com/watch?v=gcfAT8aMxuQ
 * https://hub.packtpub.com/creating-network-graphs-gephi/
