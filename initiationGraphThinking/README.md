@@ -15,6 +15,18 @@ Program:
 
 * Why - What - When - Graph Thinking (Discrete thinking - hybrid) Slides - 2 Hours module - https://neo4j.com/blog/evolving-your-application-of-gds-technology/
 
+* Graph thinking glossary - https://www.linkedin.com/pulse/dictionary-graph-terms-kurt-cagle?trk=portfolio_article-card_title
+
+* Graph Thinking Notes 
+* first - https://www.linkedin.com/pulse/state-graph-digital-transformation-kurt-cagle?trk=portfolio_article-card_title
+* second - https://www.linkedin.com/pulse/state-graph-knowledge-graphs-emerge-first-killer-app-kurt-cagle?trk=portfolio_article-card_title
+* third - https://www.linkedin.com/pulse/state-graph-merger-property-graphs-semantic-kurt-cagle?trk=portfolio_article-card_title
+* fourth - https://www.linkedin.com/pulse/state-graph-json-ld-graphql-serialization-kurt-cagle?trk=portfolio_article-card_title
+* fifth - https://www.linkedin.com/pulse/state-graph-federation-identity-kurt-cagle?trk=portfolio_article-card_title
+* sixth - https://www.linkedin.com/pulse/coming-merger-blockchain-knowledge-graphs-kurt-cagle?trk=portfolio_article-card_title
+* seventh - https://www.linkedin.com/pulse/state-graph-ai-machine-learning-future-graphs-kurt-cagle?trk=portfolio_article-card_title
+
+
 * [Graphs in theory](./graphTheory.md) - 2+2 Hours module
 
 * [Graphs in practice](./graphPractice.md) - 2 + 2 + 2 Hours module 
