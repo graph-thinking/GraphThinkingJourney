@@ -23,9 +23,8 @@ Platform:
 Tools:
 
 Yellow Belt - Gephi 
-* https://gephi.org/users/quick-start/
-* https://gephi.org/users/tutorial-visualization/
 * https://gephi.org/tutorials/gephi-tutorial-quick_start.pdf
+* https://gephi.org/users/tutorial-visualization/
 * http://derekgreene.com/slides/derekgreene_gephi_slides.pdf 
 * https://www.youtube.com/watch?v=gcfAT8aMxuQ
 * https://hub.packtpub.com/creating-network-graphs-gephi/
