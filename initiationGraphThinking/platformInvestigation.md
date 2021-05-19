@@ -22,10 +22,10 @@ Platform:
 
 Tools:
 
-Yellow Belt - Gephi 
+Yellow Belt - [Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf)
+
 * https://gephi.org/tutorials/gephi-tutorial-quick_start.pdf
 * https://gephi.org/users/tutorial-visualization/
-* http://derekgreene.com/slides/derekgreene_gephi_slides.pdf 
 * https://www.youtube.com/watch?v=gcfAT8aMxuQ
 * https://hub.packtpub.com/creating-network-graphs-gephi/
 * https://github.com/gephi/gephi-plugins/pull/212
