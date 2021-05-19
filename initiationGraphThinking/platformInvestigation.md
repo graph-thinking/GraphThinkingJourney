@@ -34,6 +34,32 @@ Tutorial Related #############################################################
 * SNA - Facebook - Facebook Graph Api - apps.facebook.com/netvizz/
 * Horrible SNA conclusion - facebook - https://medium.com/@johnrobb/facebook-the-complete-social-graph-b58157ee6594
 
+#########################################
+Excel for graph thinker : Gephi.org
+To install on linux use - jdk - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
+#########################################
+
+Graph Data  ##########################################################
+
+Gephi Graph Data Format
+https://gephi.org/users/supported-graph-formats/
+ 
+In particular 
+a lof of info gexf example : le miserables ---
+few info two CSVs : https://gist.github.com/futureperfect/2096812
+also TSV - tabular ....
+
+Folder - graph dataset
+https://dhs.stanford.edu/gephi-workshop/sample-graph-data/
+https://github.com/gephi/gephi/wiki/Datasets
+http://networkrepository.com/
+
+Your own CSV Graph Data preparation - tutorial 
+http://humnviz.blogs.bucknell.edu/files/2015/11/Data-Preparation-for-Gephi.pdf
+https://seinecle.github.io/gephi-tutorials/generated-html/importing-csv-data-in-gephi-en.html
+
+##############################################################################
+
 * https://www.youtube.com/watch?v=gcfAT8aMxuQ
 * https://hub.packtpub.com/creating-network-graphs-gephi/
 * https://github.com/gephi/gephi-plugins/pull/212
