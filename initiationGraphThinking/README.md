@@ -10,6 +10,7 @@ Audience : people whose job is data-related but doesn't necessary have programmi
 
 * [very soft and short tutorial](https://jeremykun.com/2011/06/26/teaching-mathematics-graph-theory/) - [short tutorial](https://www.freecodecamp.org/news/i-dont-understand-graph-theory-1c96572a1401/) for absolute unbelievable dummies and [not so short tutorial](https://medium.com/tebs-lab/graph-theory-table-of-contents-97ccc62b09a6)
 
+* side effects of grah thinking - https://medium.com/@johnrobb/facebook-the-complete-social-graph-b58157ee6594
 
 Program: 
 
