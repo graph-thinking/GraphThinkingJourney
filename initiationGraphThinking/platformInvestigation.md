@@ -32,7 +32,6 @@ Tutorial Import data
 
 Tutorial Related #############################################################
 * SNA - Facebook - Facebook Graph Api - apps.facebook.com/netvizz/
-* Horrible SNA conclusion - facebook - https://medium.com/@johnrobb/facebook-the-complete-social-graph-b58157ee6594
 
 1. Overview: We can explore the graph visually 
 2. Data Laboratory: We can see the spreadsheet view of our data - and the new data we create as we analyze our graph
