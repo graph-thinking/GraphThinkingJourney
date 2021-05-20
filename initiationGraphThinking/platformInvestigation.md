@@ -22,7 +22,7 @@ Platform:
 
 Tools:
 
-[Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf) - example of report results - http://mlg.ucd.ie/networks/politics-uk.html
+[Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf) - example of report results with sigmajs - http://mlg.ucd.ie/networks/politics-uk.html
 
 * [1st tutorial](https://gephi.org/users/quick-start/)
 * [2nd tutorial](https://gephi.org/users/tutorial-visualization/)
