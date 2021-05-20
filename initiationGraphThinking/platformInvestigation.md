@@ -34,6 +34,58 @@ Tutorial Related #############################################################
 * SNA - Facebook - Facebook Graph Api - apps.facebook.com/netvizz/
 * Horrible SNA conclusion - facebook - https://medium.com/@johnrobb/facebook-the-complete-social-graph-b58157ee6594
 
+1. Overview: We can explore the graph visually 
+2. Data Laboratory: We can see the spreadsheet view of our data - and the new data we create as we analyze our graph
+3. Preview: This is where we polish our visualization.
+
+Ways to find out information from your graph - to express in your report: 
+
+########### Traditional Manipulation ###########################
+
+############# Filter #################
+Example : click the "Filters" tab on the right
+Expand the "Attributes" folder
+Double-click the "Equal" folder
+Drag “sex” down to the “Queries” below.
+Click the "Filter" button
+
+############## Color ##################
+Example : select a "partition" (categorical) node variable from your data. For example, in our sample data in the Gephi workshop we have the variable called "State"
+Click on "Partition"
+Click on "Nodes"
+Choose "State" from the drop down
+Click "Apply"
+
+########### Less Traditional Manipulation - Geometry ###########
+
+############## Layout ##################
+Gephi adjusts the nodes and edges in the network by the layout feature. It prioritizes different properties of the network.
+
+
+############## Size ####################
+Resize nodes uniformly
+Click on the selection box icon on the left vertical toolbar
+Draw a box around all nodes to select them all
+Click on the diamond icon on the left vertical toolbar
+Click on a node, then drag the mouse up and down to increase and decrease the size
+
+Resize nodes according to a numerical variable
+Click on the "Ranking" tab
+Click on "Nodes"
+Select a variable (e.g., Degree) from the drop down
+Choose a minimum and maximum size as a range for the size of the nodes
+Click the "Apply" button
+
+
+######## Algorithms - Statistics ##############
+Example : Click the Statistics tab on the right hand side
+Run the “modularity” statistic as a first example. 
+This creates a new way to view your graph. It also populates a new cell in your data laboratory.
+Click into the “Appearance” tab on the left-hand side. Under “nodes” click “modularity class” in the “Partition” tab.
+
+Color your nodes by community
+Once you've calculated modularity, we can color nodes according to their communities. Go to the Partition pane (on the left side of the Gephi window) and click on the little Refresh icon. From the dropdown window, select Modularity Class. 
+
 #########################################
 Excel for graph thinker : Gephi.org
 To install on linux use - jdk - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
