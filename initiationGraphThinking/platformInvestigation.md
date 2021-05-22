@@ -35,10 +35,6 @@ Tutorial Import data
 Tutorial Related #############################################################
 * SNA - Facebook - Facebook Graph Api - apps.facebook.com/netvizz/
 
-1. Overview: We can explore the graph visually 
-2. Data Laboratory: We can see the spreadsheet view of our data - and the new data we create as we analyze our graph
-3. Preview: This is where we polish our visualization.
-
 Ways to find out information from your graph - to express in your report: 
 
 ########### Traditional Manipulation ###########################
@@ -51,7 +47,8 @@ Drag “sex” down to the “Queries” below.
 Click the "Filter" button
 
 ############## Color ##################
-Example : select a "partition" (categorical) node variable from your data. For example, in our sample data in the Gephi workshop we have the variable called "State"
+Example : select a "partition" (categorical) node variable from your data. 
+the variable called "State"
 Click on "Partition"
 Click on "Nodes"
 Choose "State" from the drop down
@@ -61,7 +58,6 @@ Click "Apply"
 
 ############## Layout ##################
 Gephi adjusts the nodes and edges in the network by the layout feature. It prioritizes different properties of the network.
-
 
 ############## Size ####################
 Resize nodes uniformly
