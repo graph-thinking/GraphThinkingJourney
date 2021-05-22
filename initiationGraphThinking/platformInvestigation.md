@@ -91,8 +91,8 @@ To install on linux use - jdk - https://adoptopenjdk.net/?variant=openjdk8&jvmVa
 
 [Gephi Advanced](http://www.martingrandjean.ch/wp-content/uploads/2015/10/Gephi-introduction.pdf) 
 
-https://www.slideshare.net/Cloud/sp1-exploratory-network-analysis-with-gephi
-https://www.slideshare.net/digitalmethods/netvizz-netvizz-dmi13
+* https://www.slideshare.net/Cloud/sp1-exploratory-network-analysis-with-gephi
+* https://www.slideshare.net/digitalmethods/netvizz-netvizz-dmi13
 
 Graph Data  ##########################################################
 
