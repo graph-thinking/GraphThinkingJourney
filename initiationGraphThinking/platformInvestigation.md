@@ -22,7 +22,7 @@ Platform:
 
 Tools:
 
-[Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf) - 
+[Gephi Beginner](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf) - 
 
 * example of report results with sigmajs - http://mlg.ucd.ie/networks/politics-uk.html
 * example of report results with d3js - http://bruce.sauls.net/d3/LesMis.html
@@ -89,13 +89,18 @@ Excel for graph thinker : Gephi.org
 To install on linux use - jdk - https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 #########################################
 
+[Gephi Advanced](http://www.martingrandjean.ch/wp-content/uploads/2015/10/Gephi-introduction.pdf) 
+
+https://www.slideshare.net/Cloud/sp1-exploratory-network-analysis-with-gephi
+https://www.slideshare.net/digitalmethods/netvizz-netvizz-dmi13
+
 Graph Data  ##########################################################
 
 Gephi Graph Data Format
 https://gephi.org/users/supported-graph-formats/
  
 In particular 
-a lof of info gexf example : le miserables ---
+a lof of info gexf example : le miserables --- http://networkrepository.com/lesmis.php
 few info two CSVs : https://gist.github.com/futureperfect/2096812
 also TSV - tabular ....
 
