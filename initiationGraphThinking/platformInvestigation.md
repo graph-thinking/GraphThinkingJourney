@@ -23,8 +23,9 @@ Platform:
 Tools:
 
 [Gephi](http://derekgreene.com/slides/derekgreene_gephi_slides.pdf) - 
-example of report results with sigmajs - http://mlg.ucd.ie/networks/politics-uk.html
-example of report results with d3js - http://bruce.sauls.net/d3/LesMis.html
+
+* example of report results with sigmajs - http://mlg.ucd.ie/networks/politics-uk.html
+* example of report results with d3js - http://bruce.sauls.net/d3/LesMis.html
 
 * [1st tutorial](https://gephi.org/users/quick-start/)
 * [2nd tutorial](https://gephi.org/users/tutorial-visualization/)
@@ -74,7 +75,7 @@ Choose a minimum and maximum size as a range for the size of the nodes
 Click the "Apply" button
 
 
-######## Algorithms - Statistics ##############
+######## Graph Statistics ##############
 Example : Click the Statistics tab on the right hand side
 Run the “modularity” statistic as a first example. 
 This creates a new way to view your graph. It also populates a new cell in your data laboratory.
