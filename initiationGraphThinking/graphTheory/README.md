@@ -10,7 +10,7 @@ White Belt - Theory about graphs
 
 ## Path - Cycle Finding Algorithms
 
-| Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
+| Notation | Algorithm | undir - unweighted | dir - unweighted | undir - weighted | dir - weighted |                                                  
 | ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
 | BST | [Binary search tree](https://visualgo.net/en/bst?slide=1) | O(N) 
 | | [Binary heap](https://visualgo.net/en/heap?slide=1) | O(N) 
