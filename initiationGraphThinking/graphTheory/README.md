@@ -3,13 +3,6 @@
 ------------------------------------------------------------------------------
 White Belt - Theory about graphs
 ---------------------------------------------------------------------------
-* Graph Structure
-* Paths
-* Trees
-* Networks and flows
-* Eulerian and Hamiltonian graphs
-* Coloring problems
-* Connectivity
 
 * Soft introduction to algorithms -- https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3
 
