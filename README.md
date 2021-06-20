@@ -1,11 +1,5 @@
 # Graph Thinking Journey
 
-There are no isolated pieces of information in this connected world, but rich and connected domains all around us. Graph Database embraces relationships as a core aspect of its data model to store, process, and query connections efficiently.
-
-Understanding the connections between data, and deriving meaning from these links, doesn’t necessarily mean gathering new data. Significant insightscan be drawn from one’s existing data, simply by reframing the problem and looking at it in a new way: as a Graph.
-
-From a metaphysic perspective we all belongs to an [Universal Graph](https://en.wikipedia.org/wiki/Universal_graph).
-
 We are inspired by such community - https://www.graphfoundation.org/ - https://www.meetup.com/graphql-berlin/ and standard organization - http://ldbcouncil.org/ - we are not married to a particolar technology
 
 This course is intended to be a base for a graph thinking journey. 

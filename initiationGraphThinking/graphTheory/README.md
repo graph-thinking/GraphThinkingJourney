@@ -3,27 +3,32 @@
 ------------------------------------------------------------------------------
 White Belt - Theory about graphs
 ---------------------------------------------------------------------------
-* Graph Structure
-* Paths
-* Trees
-* Networks and flows
-* Eulerian and Hamiltonian graphs
-* Coloring problems
-* Connectivity
+
+* Soft introduction to algorithms -- https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3
+
+* Other list of graph algorithms - https://docs.yworks.com/yfiles-html/dguide/analysis/index.html
 
 ## Path - Cycle Finding Algorithms
 
-| Notation | Algorithm | Time complexity - undir - unweighted | Time complexity - dir - unweighted | Time complexity - undir - weighted | Time complexity - dir - weighted |                                                  
-| ------------- | ------------- | -------------- |
-| SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V2) 	Dijkstra 1959 -- for unweighted BFS|
-|All Pairs Shortest Path | | |
+| Notation | Algorithm | undir - unweighted | dir - unweighted | undir - weighted | dir - weighted |                                                  
+| ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
+| BST | [Binary search tree](https://visualgo.net/en/bst?slide=1) | O(N) 
+| | [Binary heap](https://visualgo.net/en/heap?slide=1) | O(N) 
 | DFS | [Depth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
 | BFS | [Breadth first search](https://visualgo.net/en/dfsbfs?slide=1) | O(V) + O(E) = O(V + E)
-| Eulerian cycle (path) - Chinese postman  | |
-| [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | TSP |  
+| SSSP | [Single Source Shortest Path](https://visualgo.net/en/sssp?slide=1) | O(V<sup>2</sup>) | O(E + V) |
+| | All Pairs Shortest Path | | |
+| | Eulerian cycle (path) - Chinese postman  | https://www-m9.ma.tum.de/graph-algorithms/directed-chinese-postman/index_en.html | https://www-m9.ma.tum.de/Allgemeines/GraphAlgorithmenEn |
+| TSP | [Hamiltonian cycle - Traveling salesman](https://visualgo.net/en/tsp?slide=1) | O(V * (V - 1)!) = O(V!) |  O(V^2 * 2^V) |
 | MST |  [Minimal Weight Spanning Tree](https://visualgo.net/en/mst?slide=1) 
-| Random Walk | | https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/random-walk/ | https://isquared.digital/blog/2020-04-12-random-walk/
+| | Random Walk | | https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/random-walk/ | https://isquared.digital/blog/2020-04-12-random-walk/
 
+## Other Algorithms 
+
+| Notation | Algorithm | T. C. undir - unweighted | T. C. dir - unweighted | T. C. undir - weighted | T. C. - dir - weighted |                                                  
+| ------------- | ------------- | -------------- | ------------- | ------------- | -------------- |
+| Residual Network - Augmenting Path | [Network Flow](https://visualgo.net/en/maxflow) | O(max_flow * E) | O(max_flow * E) |
+| MCM | [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) |  |  O ( V <sup>2</sup> E ) |
 
 ## Centrality Algorithms -- https://towardsdatascience.com/notes-on-graph-theory-centrality-measurements-e37d2e49550a                                           
 
@@ -44,7 +49,7 @@ White Belt - Theory about graphs
 | Label Propagation | |
 | Weakly Connected Components | |
 | K-1 Colouring | |
-| [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | https://www.slideshare.net/PriyankJain26/graph-coloring-48222920| 
+| [Graph Colouring](https://ahmedengu.com/VisuAlgo-GraphColoring/src/index.html) | https://www.slideshare.net/PriyankJain26/graph-coloring-48222920| https://www.geeksforgeeks.org/graph-coloring-applications/ |
 | Triangle Count | | |
 | Local Clustering Coefficient | | |
 | Modularity Optimization | | |
@@ -86,17 +91,22 @@ FastRP
 GraphSAGE
 Node2Vec
 
-
-| [Network Flow](https://visualgo.net/en/maxflow) | | 
-| [Matching - Maximum Cardinality Matching](https://visualgo.net/en/matching?slide=1) | MCM |
- 
-
-
 Green Belt
 
 
-Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -- [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
+Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -video - https://www.youtube.com/watch?v=dEGmpwPMBH0 - [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
 
+
+* https://www.cs.utexas.edu/~isil/cs311h/lecture-graph1b-6up.pdf
+* http://www.math-cs.gordon.edu/courses/mat230/notes/graphs.pdf
+
+Support : Discrete Mathematics - 
+* https://faculty.atu.edu/mfinan/main2.pdf
+* https://www.cis.upenn.edu/~jean/discmath-root-b.pdf
+* https://web.stanford.edu/class/cs103x/cs103x-notes.pdf
+* https://home.iitk.ac.in/~arlal/book/mth202.pdf
+* https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf
+* http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf
 
 
 ----- other sources ...
