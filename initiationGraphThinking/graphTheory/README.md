@@ -91,11 +91,6 @@ FastRP
 GraphSAGE
 Node2Vec
 
-Green Belt
-
-
-Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) -video - https://www.youtube.com/watch?v=dEGmpwPMBH0 - [Videos Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) -- [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
-
 
 * https://www.cs.utexas.edu/~isil/cs311h/lecture-graph1b-6up.pdf
 * http://www.math-cs.gordon.edu/courses/mat230/notes/graphs.pdf

@@ -1,6 +1,12 @@
 # Graph Theory - Discrete Mathematics - Literacys
 
-[Video - BarasiLab](https://www.youtube.com/watch?v=dEGmpwPMBH0&list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ) 
+[Videos - BarasiLab](https://www.youtube.com/watch?v=dEGmpwPMBH0&list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ) 
+[Videos - Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
+
+Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) 
+- video - https://www.youtube.com/watch?v=dEGmpwPMBH0 - 
+[Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
+
 
 
 [CSC/MTH 447 - Discrete Mathematics](https://homepage.cs.uri.edu/faculty/hamel/courses/2012/fall2012/csc447/)
