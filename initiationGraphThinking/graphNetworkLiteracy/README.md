@@ -1,11 +1,38 @@
 # Graph Theory - Discrete Mathematics - Literacys
 
+[CSC447 - Corso Discrete Math - also logic](https://homepage.cs.uri.edu/faculty/hamel/courses/2012/fall2012/csc447/)
+[Corso Reference Book - Graph and Graph Models - Tree and Tree Models - DFS - BFS as algo - only](https://notendur.hi.is/mbh6/html/_downloads/Discrete%20Mathematics%20and%20Its%20Applications%20-%20Kenneth%20Rosen%20(2012).pdf)
+
+
 [Videos - BarasiLab](https://www.youtube.com/watch?v=dEGmpwPMBH0&list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ) 
 [Videos - Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
 
-Support : [Book](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) 
+Videos - Graph Theory Explained by Sarada Herke (also with sagemath) ---
+https://www.youtube.com/watch?v=p67pxeLZXn4&list=RDCMUCV8tyRakGZuXUwD-wYH1yGg&start_radio=1
+
+
+[Book 2](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf) 
 - video - https://www.youtube.com/watch?v=dEGmpwPMBH0 - 
+
+Slides oriented to network optimization - Hamilton - with algorithms - weighted graph
 [Slides](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)
+
+
+
+
+Interactive Algorithms - Non programmatori
+visualgo - https://visualgo.net/en
+[Interactive - tutorial 3](https://graphonline.ru/en/)  --- export in graphml and import in gephi ...
+
+
+https://laika.unirioja.es/usuarios/jvarona/Sage/quickref-graphtheory.pdf
+https://www.steinertriples.fr/ncohen/tut/Graphs/
+https://www3.tuhh.de/e11/schmidt/CombinatorialData/AlgorithmicGraphTheory.html
+https://doc.sagemath.org/html/en/prep/Quickstarts/Graphs-and-Discrete.html
+
+GraphTheory with Sagemath 
+https://www.youtube.com/watch?v=vBd22K-Nuj4
+https://www.youtube.com/watch?v=Kvkr9Hpgvxg 
 
 
 
