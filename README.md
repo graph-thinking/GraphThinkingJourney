@@ -1,6 +1,6 @@
 # Graph Thinking Journey
 
-We are inspired by such community - https://www.graphfoundation.org/ - https://www.meetup.com/graphql-berlin/ and standard organization - http://ldbcouncil.org/ - we are not married to a particolar technology
+We are inspired by such community - https://www.graphfoundation.org/ - https://www.meetup.com/graphql-berlin/ and standard organization - http://ldbcouncil.org/ - we are not tied to a particolar technology
 
 This course is intended to be a base for a graph thinking journey. 
 It covers an [introduction](./initiationGraphThinking/README.md) to learn to solve problems with graphs (shortest path not persistent and persistent), followed by a classification of all [graph algorithms](./graphAlgorithms/README.md) and a [solution production ready one (shortest path)](./graphProductionReady/README.md).
