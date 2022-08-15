@@ -1,11 +1,3 @@
-# Centrality Analysis 
-   reveal which nodes are important based on graph topology. They identify influential nodes based on their position 
-   in the network and include the famous PageRank algorithm. These algorithms are used to infer group dynamics 
-   such as credibility, rippling vulnerability and bridges between groups.
- 
-   Degree Centrality 
-   
-   Betweeness Centrality 
    
    Algorithm | Complexity O(V,E) | Challenge
 --- | --- | ---
